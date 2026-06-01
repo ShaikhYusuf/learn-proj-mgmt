@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "question": "Planning is a fundamental management function that lays the foundation for all other organizational activities by determining what needs to be achieved and deciding on the best course of action to accomplish those objectives.",
+    "answer": "true"
+  },
+  {
+    "id": 2,
+    "question": "Planning involves evaluating various ________ and selecting the most viable course of action.",
+    "answer": "options"
+  },
+  {
+    "id": 3,
+    "question": "Planning is centered on defining ________, guiding all activities and decisions within an organization.",
+    "answer": "objectives"
+  },
+  {
+    "id": 4,
+    "question": "Planning is forward-looking and anticipates future ________ and challenges.",
+    "answer": "needs"
+  },
+  {
+    "id": 5,
+    "question": "The selection of the best alternative in planning depends on the ________, such as finances, expertise, and time.",
+    "answer": "resources"
+  },
+  {
+    "id": 6,
+    "question": "Effective planning ensures ________ use of human, financial, and physical resources.",
+    "answer": "judicious"
+  },
+  {
+    "id": 7,
+    "question": "A well-structured plan outlines the exact steps that need to be taken to achieve the ________.",
+    "answer": "goals"
+  },
+  {
+    "id": 8,
+    "question": "Planning helps in reducing uncertainties by providing a ________, even in the face of unforeseen challenges.",
+    "answer": "roadmap"
+  },
+  {
+    "id": 9,
+    "question": "The goal-oriented nature of planning ensures that every activity—whether curricular, extracurricular, or administrative—supports the institution's overall ________.",
+    "answer": "goals"
+  },
+  {
+    "id": 10,
+    "question": "Effective planning ensures the different functions or activities within an organization are well ________, working in harmony.",
+    "answer": "coordinated"
+  }
+]

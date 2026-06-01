@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is conflict management?",
+    "options": [
+      "The process of avoiding all conflicts.",
+      "The process of handling disputes and disagreements in a constructive way.",
+      "The process of creating conflicts in an organization.",
+      "The process of eliminating conflicts in the workplace."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a key objective of conflict management?",
+    "options": [
+      "Creating conflicts in the workplace.",
+      "Resolving conflicts in a way that satisfies the involved parties.",
+      "Escalating conflicts for better decision-making.",
+      "Ignoring conflicts to maintain harmony."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is NOT a type of conflict in organizations?",
+    "options": [
+      "Interpersonal Conflict",
+      "Organizational Conflict",
+      "Task Conflict",
+      "Growth Conflict"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 4,
+    "question": "What is the primary benefit of conflict management in an organization?",
+    "options": [
+      "Increased workplace drama.",
+      "Decreased employee productivity.",
+      "Improved communication and relationships.",
+      "Increased conflict between employees."
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 5,
+    "question": "Which conflict management style focuses on avoiding conflict altogether?",
+    "options": [
+      "Avoiding",
+      "Collaborating",
+      "Accommodating",
+      "Competing"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 6,
+    "question": "Which strategy involves both parties making concessions to reach a mutually acceptable solution?",
+    "options": [
+      "Collaborating",
+      "Compromising",
+      "Accommodating",
+      "Avoiding"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "When should the 'Competing' conflict management style be used?",
+    "options": [
+      "When both parties are equally powerful and need a quick solution.",
+      "When a quick decision is necessary, and there is a clear right or wrong.",
+      "When the issue is not important and can be ignored.",
+      "When both parties need a mutually beneficial solution."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "What is a potential downside of the 'Accommodating' conflict management style?",
+    "options": [
+      "It can create resentment if the accommodating party’s needs are consistently ignored.",
+      "It always leads to a win-win solution.",
+      "It allows both parties to win without any compromise.",
+      "It creates immediate resolution without any long-term consequences."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is an example of 'Interpersonal Conflict'?",
+    "options": [
+      "A conflict between departments over budget allocation.",
+      "A disagreement between two employees over how to approach a project.",
+      "A dispute over company policies.",
+      "A clash of work styles between different teams."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "What is one of the benefits of using the 'Collaborating' conflict management strategy?",
+    "options": [
+      "It leads to a creative, mutually beneficial solution.",
+      "It resolves conflicts quickly with little effort.",
+      "It ensures that one party wins and the other loses.",
+      "It avoids direct confrontation, even at the cost of the issue."
+    ],
+    "answer": "a"
+  }
+]

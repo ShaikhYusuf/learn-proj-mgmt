@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary goal of time management?",
+    "options": [
+      "Increase stress levels",
+      "Increase productivity",
+      "Work longer hours",
+      "Take more breaks"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is an example of a time waster?",
+    "options": [
+      "Focused work on important tasks",
+      "Excessive time on the internet",
+      "Prioritizing important projects",
+      "Setting SMART goals"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Which principle states that 80% of results come from 20% of tasks?",
+    "options": [
+      "The Parkinson’s Law",
+      "The Pareto Principle",
+      "The Time Matrix",
+      "The Law of Diminishing Returns"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "What should be prioritized when managing time effectively?",
+    "options": [
+      "Urgent tasks",
+      "Important tasks",
+      "Non-essential tasks",
+      "Tasks that require the least effort"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is NOT a mistake in time management?",
+    "options": [
+      "Setting personal goals",
+      "Procrastination",
+      "Multitasking",
+      "Not managing distractions"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 6,
+    "question": "What is the main reason for making a to-do list?",
+    "options": [
+      "To prioritize tasks",
+      "To keep track of social media updates",
+      "To list all distractions",
+      "To track time spent on each task"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "What is a key factor for avoiding burnout due to poor time management?",
+    "options": [
+      "Working without breaks",
+      "Taking on too many tasks",
+      "Setting boundaries and learning to say no",
+      "Procrastinating tasks until the last minute"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is an essential skill for time management?",
+    "options": [
+      "Multitasking",
+      "Self-awareness",
+      "Ignoring deadlines",
+      "Constantly working without rest"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Why is it important to schedule relaxation time when managing time?",
+    "options": [
+      "To avoid distractions",
+      "To prevent burnout and refresh the mind",
+      "To waste time",
+      "To take unnecessary breaks"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Which mistake can lead to poor time management when dealing with tasks?",
+    "options": [
+      "Breaking down large tasks into manageable steps",
+      "Not prioritizing tasks",
+      "Setting clear goals",
+      "Creating and reviewing schedules"
+    ],
+    "answer": "b"
+  }
+]

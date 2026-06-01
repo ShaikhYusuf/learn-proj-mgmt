@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What skill is most important for Ms. Sunayana Naik as an assistant teacher?",
+    "options": [
+      "Leadership skills",
+      "Technical skills",
+      "Conceptual skills",
+      "Problem-solving skills"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which skill is most important for Ms. Naik in her new role as a supervisor?",
+    "options": [
+      "Time management skills",
+      "Supervisory skills",
+      "Technical skills",
+      "Communication skills"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "What skill should Ms. Naik possess to be an effective principal?",
+    "options": [
+      "Analytical skills",
+      "Strategic thinking",
+      "Time management skills",
+      "Teaching skills"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "What type of skill is most critical for lower-level managers?",
+    "options": [
+      "Human skills",
+      "Conceptual skills",
+      "Technical skills",
+      "Analytical skills"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 5,
+    "question": "What skill is required for top-level managers to handle the entire organization?",
+    "options": [
+      "Technical skills",
+      "Conceptual skills",
+      "Human skills",
+      "Problem-solving skills"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Which skill is important for all managers but is particularly crucial for first-level managers?",
+    "options": [
+      "Conceptual skills",
+      "Human skills",
+      "Decision-making skills",
+      "Time management skills"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "What skill involves understanding and managing one's own emotions as well as recognizing the emotions of others?",
+    "options": [
+      "Human skills",
+      "Technical skills",
+      "Conceptual skills",
+      "Analytical skills"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is an example of human skills?",
+    "options": [
+      "Strategic planning",
+      "Team building",
+      "Budget management",
+      "Scheduling"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Which type of skill is most important for making long-term, strategic decisions?",
+    "options": [
+      "Conceptual skills",
+      "Human skills",
+      "Technical skills",
+      "Communication skills"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "In which role do technical skills become less important, while leadership and conceptual skills are emphasized?",
+    "options": [
+      "Supervisor",
+      "Assistant teacher",
+      "Principal",
+      "Teacher"
+    ],
+    "answer": "c"
+  }
+]

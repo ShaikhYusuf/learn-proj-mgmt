@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "question": "______ is a crucial part of human life and plays a vital role in both personal and professional contexts.",
+    "answer": "Decision making"
+  },
+  {
+    "id": 2,
+    "question": "The decision-making process often involves reducing ______ and choosing an option that aligns with one's goals.",
+    "answer": "uncertainty"
+  },
+  {
+    "id": 3,
+    "question": "The first step in the decision-making process is recognizing that a ______ is required.",
+    "answer": "decision"
+  },
+  {
+    "id": 4,
+    "question": "The process of gathering ______ involves conducting research, seeking expert opinions, or analyzing past experiences.",
+    "answer": "information"
+  },
+  {
+    "id": 5,
+    "question": "After collecting information, the next step is to identify ______, which could range from different strategies to structural changes.",
+    "answer": "alternatives"
+  },
+  {
+    "id": 6,
+    "question": "______ is about evaluating the potential outcomes of each alternative based on costs, benefits, risks, feasibility, and alignment with goals.",
+    "answer": "Evaluating alternatives"
+  },
+  {
+    "id": 7,
+    "question": "______ is selecting the option that best addresses the problem or opportunity after evaluating alternatives.",
+    "answer": "Making the decision"
+  },
+  {
+    "id": 8,
+    "question": "Once the decision is made, the next step is ______, which involves taking concrete actions to put the selected alternative into practice.",
+    "answer": "implementing the decision"
+  },
+  {
+    "id": 9,
+    "question": "After implementing the decision, it’s important to ______ to assess whether the decision achieved the desired result.",
+    "answer": "review and evaluate"
+  },
+  {
+    "id": 10,
+    "question": "Strategic decisions often have a significant impact on the ______ and direction of an organization.",
+    "answer": "success"
+  }
+]

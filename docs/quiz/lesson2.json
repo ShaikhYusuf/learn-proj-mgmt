@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary purpose of institutions like schools and hospitals in society?",
+    "options": [
+      "To provide services and meet the needs of the community",
+      "To create revenue",
+      "To entertain people",
+      "To control resources"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "Why is management important for educational institutions like schools?",
+    "options": [
+      "To ensure teachers are paid well",
+      "To create a smooth environment where resources are organized and goals are achieved",
+      "To ensure students can leave early",
+      "To increase profits"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is NOT part of managing an educational institution?",
+    "options": [
+      "Planning what needs to be done",
+      "Organizing resources like teachers and classrooms",
+      "Directing people to carry out the plan",
+      "Ignoring staff feedback"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 4,
+    "question": "What does 'management as a process' in education involve?",
+    "options": [
+      "Only organizing classrooms",
+      "Planning, organizing, staffing, delegating, and controlling",
+      "Focusing only on classroom activities",
+      "Hiring only experienced staff"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "How is management related to education as a discipline?",
+    "options": [
+      "It only involves hiring staff",
+      "It is a subject of study that helps people become good managers by learning leadership theories and concepts",
+      "It focuses on teaching specific subjects",
+      "It involves direct teaching of students"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Who are considered as the management in a school?",
+    "options": [
+      "Only the students",
+      "Only the teachers",
+      "The principal and head of departments",
+      "Only the government"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 7,
+    "question": "What is the primary goal of the management of education?",
+    "options": [
+      "To improve student performance and contribute to society’s development",
+      "To focus only on passing exams",
+      "To reduce the number of teachers",
+      "To decrease educational costs"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is an example of 'management as a process' in an educational institution?",
+    "options": [
+      "Setting educational goals for the academic year",
+      "Only teaching students",
+      "Limiting staff to only the principal",
+      "Ignoring community needs"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 9,
+    "question": "What does 'management as a noun' refer to in the context of education?",
+    "options": [
+      "The students who attend the school",
+      "The people in charge of running the educational institution, such as principals and department heads",
+      "The school building",
+      "The textbooks used for teaching"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "How can educational institutions adapt to societal changes?",
+    "options": [
+      "By ignoring technological advancements",
+      "By focusing only on traditional teaching methods",
+      "By incorporating new teaching methods, curriculum, and tools to meet societal needs",
+      "By reducing the number of teachers"
+    ],
+    "answer": "c"
+  }
+]

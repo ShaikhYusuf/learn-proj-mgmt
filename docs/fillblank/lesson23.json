@@ -1,0 +1,54 @@
+{
+  "lesson": "Lesson 23: Motivation: Concept and Process",
+  "questions": [{
+      "id": 1,
+      "question": "Motivation is a fundamental aspect of human life that influences everything a person does. It is the driving force behind all human actions, whether at work, in education, or in personal life.",
+      "answer": "Motivation"
+    },
+    {
+      "id": 2,
+      "question": "The term 'motivation' comes from the Latin word ________, meaning 'to move' or 'to energize.'",
+      "answer": "movere"
+    },
+    {
+      "id": 3,
+      "question": "According to Maslow’s hierarchy of needs, which need is considered the most basic and fundamental for survival?",
+      "answer": "Physiological Needs"
+    },
+    {
+      "id": 4,
+      "question": "________ motivation refers to the motivation that comes from within the individual, such as personal growth, mastery of a skill, or personal fulfillment.",
+      "answer": "Intrinsic"
+    },
+    {
+      "id": 5,
+      "question": "________ motivation, on the other hand, is driven by external factors such as money, praise, grades, or recognition.",
+      "answer": "Extrinsic"
+    },
+    {
+      "id": 6,
+      "question": "Maslow's Hierarchy of Needs starts with which level?",
+      "answer": "Physiological Needs"
+    },
+    {
+      "id": 7,
+      "question": "Once physiological needs are met, individuals turn their attention to ________ needs, which relate to the desire for a stable environment and protection from harm.",
+      "answer": "Safety"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is an example of extrinsic motivation?",
+      "answer": "A student studying hard to secure good grades in order to earn a scholarship."
+    },
+    {
+      "id": 9,
+      "question": "A person who loves painting will spend hours working on a canvas because they enjoy the act of painting itself. This is an example of ________ motivation.",
+      "answer": "intrinsic"
+    },
+    {
+      "id": 10,
+      "question": "Maslow's highest level of need is referred to as ________ needs, which include personal growth and self-fulfillment.",
+      "answer": "Self-Actualization"
+    }
+  ]
+}

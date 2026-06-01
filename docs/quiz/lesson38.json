@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "question": "What is the primary goal of intervention techniques in organizational development?",
+    "options": [
+      "To bring about organizational changes that improve performance and health",
+      "To identify individual employee performance issues",
+      "To reduce overall employee work hours"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a common goal of Process Consultation?",
+    "options": [
+      "Directly providing solutions to organizational problems",
+      "Helping organizations identify and understand their own process-related issues",
+      "Providing financial recommendations for organizational growth"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Who is typically responsible for conducting Process Consultation?",
+    "options": [
+      "External consultants or organizational leaders",
+      "Only the CEO of the organization",
+      "Only the Human Resources department"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a key assumption behind Process Consultation?",
+    "options": [
+      "Managers have all the solutions to the organization’s problems",
+      "External consultants bring a fresh, unbiased viewpoint",
+      "Employees should not be involved in the process"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "In Survey Feedback, what is the primary purpose of the data collection stage?",
+    "options": [
+      "To diagnose organizational issues and challenges",
+      "To implement changes without feedback",
+      "To evaluate employee satisfaction only"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 6,
+    "question": "What does Survey Feedback primarily focus on improving?",
+    "options": [
+      "Financial performance of the organization",
+      "Group relationships and collaboration",
+      "Individual performance reviews"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is true about the feedback process in Survey Feedback?",
+    "options": [
+      "Feedback should be critical and demoralizing",
+      "Feedback should be constructive and suggestive",
+      "Feedback is given only to top management"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "What is the first step in the Survey Feedback process?",
+    "options": [
+      "Developing action plans",
+      "Data collection through questionnaires",
+      "Follow-up and evaluation"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "What is the main role of the consultant in Process Consultation?",
+    "options": [
+      "To provide solutions for all organizational issues",
+      "To help the client identify and understand process-related issues",
+      "To make all decisions for the organization"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following intervention techniques focuses on improving employee awareness of biases and promoting inclusivity?",
+    "options": [
+      "Sensitivity training",
+      "Process consultation",
+      "Survey feedback"
+    ],
+    "answer": "a"
+  }
+]

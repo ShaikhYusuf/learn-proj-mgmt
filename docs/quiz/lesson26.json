@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary focus of Vroom's Expectancy Motivation Theory?",
+    "options": [
+      "Intrinsic needs and drives",
+      "Cognitive processes behind decisions regarding effort, performance, and rewards",
+      "Social and cultural factors influencing motivation",
+      "External rewards and punishments"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which component of Vroom's Expectancy Theory refers to the belief that increased effort will lead to increased performance?",
+    "options": [
+      "Instrumentality",
+      "Expectancy",
+      "Valence",
+      "Motivation"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "In Vroom's theory, which of the following factors does NOT influence Expectancy?",
+    "options": [
+      "Skills and abilities",
+      "Availability of resources",
+      "Trust in management",
+      "Support systems"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "What does Instrumentality in Vroom's theory refer to?",
+    "options": [
+      "The belief that good performance will lead to a reward",
+      "The emotional value attached to the anticipated reward",
+      "The belief that more effort leads to better performance",
+      "The perception of how much effort will be required"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is NOT a factor that influences Valence in Vroom's theory?",
+    "options": [
+      "Personal goals and values",
+      "Cultural and social factors",
+      "Trust in management",
+      "Past experiences"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 6,
+    "question": "In Vroom's Expectancy Motivation Theory, which equation represents motivation?",
+    "options": [
+      "Motivation = E × V × I",
+      "Motivation = V × E × I",
+      "Motivation = I × V × E",
+      "Motivation = E + I + V"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is an application of Vroom's theory in the workplace?",
+    "options": [
+      "Setting achievable goals for employees",
+      "Providing clear performance feedback",
+      "Ensuring fairness in reward distribution",
+      "All of the above"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 8,
+    "question": "What is a key application of Expectancy Theory in the classroom?",
+    "options": [
+      "Providing after-class tutoring to build student confidence",
+      "Offering personalized rewards based on student preferences",
+      "Ensuring that students understand the link between effort and reward",
+      "All of the above"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following can increase Valence in the workplace?",
+    "options": [
+      "Providing rewards that align with individual employee goals",
+      "Offering only financial bonuses",
+      "Not offering any rewards",
+      "Reducing clarity of the reward system"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "What does Vroom's Expectancy Theory suggest is necessary for high motivation?",
+    "options": [
+      "Expectancy, instrumentality, and valence must all be weak",
+      "Only one of expectancy, instrumentality, or valence needs to be strong",
+      "Expectancy, instrumentality, and valence must all be strong",
+      "None of the above"
+    ],
+    "answer": "c"
+  }
+]

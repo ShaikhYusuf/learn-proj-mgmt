@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "Who developed the Equity Theory of Motivation?",
+    "options": [
+      "Frederick Herzberg",
+      "Abraham Maslow",
+      "John Adams",
+      "Douglas McGregor"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 2,
+    "question": "What is the primary focus of the Equity Theory of Motivation?",
+    "options": [
+      "Achieving job security",
+      "Fairness in input-output relationships",
+      "Maximizing financial rewards",
+      "Employee autonomy and freedom"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "According to Equity Theory, which of the following is an example of an input?",
+    "options": [
+      "Salary",
+      "Recognition",
+      "Time spent working",
+      "Job security"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "What is the formula that expresses the concept of equity in Adams' Equity Theory?",
+    "options": [
+      "Oa/Ia = Op/Ip",
+      "Oa = Op + Ip",
+      "Ia = Oa + Op",
+      "Op/Ia = Oa/Ip"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 5,
+    "question": "What happens when an employee perceives that they are under-rewarded?",
+    "options": [
+      "They feel a sense of satisfaction",
+      "They may feel resentment and demotivation",
+      "They feel overconfident and motivated",
+      "They leave the organization immediately"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following best describes over-rewarded inequity?",
+    "options": [
+      "An employee feels they are receiving more rewards than their efforts deserve",
+      "An employee feels they are contributing more than they are rewarded for",
+      "An employee feels their rewards are perfectly matched with their inputs",
+      "An employee receives equal rewards to their inputs"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is an example of a reference person or group in the context of Equity Theory?",
+    "options": [
+      "A co-worker in the same organization",
+      "A customer in the workplace",
+      "A manager from another department",
+      "None of the above"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 8,
+    "question": "What is the primary motivation behind employees' actions in response to perceived inequity?",
+    "options": [
+      "To increase their outputs without altering inputs",
+      "To restore fairness in their input-output ratio",
+      "To seek promotions at any cost",
+      "To maintain the status quo"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "How does perception of fairness play a role in Equity Theory?",
+    "options": [
+      "Fairness is determined by actual rewards and inputs only",
+      "Perceived fairness is more important than actual fairness",
+      "Perception has no effect on motivation",
+      "Employees only care about financial rewards"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is true about the difference between equity and equality?",
+    "options": [
+      "Equity means treating everyone the same, while equality means fair treatment based on contributions",
+      "Equity refers to fairness based on individual contributions, while equality means everyone gets the same",
+      "Equality is focused on individual needs, while equity focuses on organizational standards",
+      "There is no difference between equity and equality"
+    ],
+    "answer": "b"
+  }
+]

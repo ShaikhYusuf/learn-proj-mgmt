@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary distinction between management as a process and management as a discipline?",
+    "options": [
+      "Management as a process involves a systematic approach to achieving goals, while management as a discipline is focused on teaching those processes.",
+      "Management as a discipline involves the actual application of processes in the workplace.",
+      "Management as a process is academic, while management as a discipline deals only with administration.",
+      "Management as a process is about decision-making, while discipline refers to teaching methods."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT one of the core management processes in educational institutions?",
+    "options": [
+      "Planning",
+      "Organizing",
+      "Ignoring",
+      "Delegating"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "Why is education management particularly important in a diverse society like India?",
+    "options": [
+      "It ensures that all students learn the same way.",
+      "It helps tailor educational practices to suit diverse cultural and socio-economic backgrounds.",
+      "It reduces the need for teachers and administrators.",
+      "It promotes global education standards without considering local context."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "How does globalization affect the role of education management?",
+    "options": [
+      "It makes managing schools easier by standardizing curricula.",
+      "It introduces the challenge of managing cultural diversity and adapting educational practices.",
+      "It reduces the need for technological integration in schools.",
+      "It allows for the centralization of educational administration."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Which level of management in education is responsible for setting long-term objectives for the institution?",
+    "options": [
+      "Strategic level (top management)",
+      "Tactical level (middle management)",
+      "Operational level (teachers, staff)",
+      "None of the above"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 6,
+    "question": "What is the role of education management in responding to technological advancements in education?",
+    "options": [
+      "It ensures that teachers are trained to effectively use new technologies in the classroom.",
+      "It focuses solely on providing physical infrastructure without addressing technological needs.",
+      "It resists technological integration to preserve traditional methods.",
+      "It focuses on developing new technological products for education."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "What is the significance of a conducive environment in educational institutions?",
+    "options": [
+      "It discourages student engagement.",
+      "It promotes a positive atmosphere that supports learning and development.",
+      "It ensures students are only focused on academic achievement.",
+      "It reduces teacher workload."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is NOT an example of resource optimization in educational management?",
+    "options": [
+      "Creating learning zones from unused spaces in a school.",
+      "Ensuring teachers are well-trained and effective in their roles.",
+      "Increasing the number of students in each classroom.",
+      "Integrating technology into teaching to enhance learning."
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 9,
+    "question": "How does education management contribute to leadership development within educational institutions?",
+    "options": [
+      "By ensuring that only top-level administrators take on leadership roles.",
+      "By training teachers and students to develop leadership skills for classroom management and school activities.",
+      "By discouraging students from taking leadership positions.",
+      "By reducing the number of leadership opportunities in schools."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "What is one key outcome of effective decision-making in education management?",
+    "options": [
+      "Improved student behavior",
+      "Enhanced communication between teachers and students",
+      "Better resource allocation and curriculum design",
+      "Increased student attendance"
+    ],
+    "answer": "c"
+  }
+]

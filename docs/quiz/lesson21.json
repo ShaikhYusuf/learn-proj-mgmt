@@ -1,0 +1,112 @@
+[{
+    "id": 1,
+    "question": "Which of the following decisions involves routine, repetitive tasks?",
+    "options": [
+      "Non-Programmed Decisions",
+      "Programmed Decisions",
+      "Strategic Decisions",
+      "Operational Decisions"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+
+    "question": "Which decision type is made in unstructured, unique, or novel situations?",
+    "options": [
+      "Programmed Decisions",
+      "Non-Programmed Decisions",
+      "Operational Decisions",
+      "Organizational Decisions"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Which decision is typically made by top management and has a long-term impact?",
+    "options": [
+      "Operational Decisions",
+      "Strategic Decisions",
+      "Routine Decisions",
+      "Problem-Solving Decisions"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "A manager deciding how to allocate resources for a marketing campaign is an example of which type of decision?",
+    "options": [
+      "Personal Decision",
+      "Organizational Decision",
+      "Operational Decision",
+      "Interactive Decision"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Which type of decision involves analyzing data and research to determine the best course of action?",
+    "options": [
+      "Research-Based Decisions",
+      "Interactive Decisions",
+      "Non-Programmed Decisions",
+      "Policy Decisions"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 6,
+    "question": "Which type of decision is aimed at addressing problems or challenges that need immediate attention?",
+    "options": [
+      "Problem-Solving Decisions",
+      "Opportunity Decisions",
+      "Routine Decisions",
+      "Strategic Decisions"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "Deciding on the work schedule for employees is an example of which type of decision?",
+    "options": [
+      "Routine Decision",
+      "Strategic Decision",
+      "Organizational Decision",
+      "Research-Based Decision"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 8,
+    "question": "Which type of decision is made after brainstorming and considering different alternatives?",
+    "options": [
+      "Programmed Decision",
+      "Non-Programmed Decision",
+      "Operational Decision",
+      "Interactive Decision"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Which type of decision is typically made by middle or lower-level managers and has immediate effects?",
+    "options": [
+      "Strategic Decision",
+      "Policy Decision",
+      "Operational Decision",
+      "Major Decision"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is an example of a major decision?",
+    "options": [
+      "Approving overtime requests",
+      "Deciding to acquire another company",
+      "Scheduling shifts for employees",
+      "Ordering office supplies"
+    ],
+    "answer": "b"
+  }
+]

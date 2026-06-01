@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary purpose of planning?",
+    "options": [
+      "To reduce uncertainty and allocate resources effectively.",
+      "To increase financial resources for the organization.",
+      "To eliminate external challenges.",
+      "To create a structured approach to leadership."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a characteristic of good objectives?",
+    "options": [
+      "Vague and general.",
+      "Achievable, measurable, and time-bound.",
+      "Non-specific with no measurable metrics.",
+      "Unrealistic and unaligned with the organization’s vision."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "What does the 'Perception of Opportunities' step in planning involve?",
+    "options": [
+      "Setting objectives for the organization.",
+      "Identifying potential opportunities and challenges.",
+      "Allocating resources to different departments.",
+      "Developing contingency plans for unforeseen events."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "What are planning premises?",
+    "options": [
+      "Detailed instructions for completing tasks.",
+      "Specific, clear, and achievable objectives.",
+      "Assumptions that shape the planning process.",
+      "The total budget required for a project."
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is an example of a planning policy?",
+    "options": [
+      "The steps involved in student admissions.",
+      "The principle of no student being expelled without warning.",
+      "The rules governing uniform wear during school hours.",
+      "A detailed procedure for setting up a digital classroom."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "In the planning process, which step involves analyzing available resources and identifying constraints?",
+    "options": [
+      "Setting objectives.",
+      "Identifying resources and constraints.",
+      "Formulating supporting plans.",
+      "Exploring alternatives."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "What is the main benefit of the 'Monitoring and Evaluating Progress' step in the planning process?",
+    "options": [
+      "It helps to increase budget allocation.",
+      "It provides a mechanism for continuous improvement.",
+      "It eliminates all uncertainties in the plan.",
+      "It ensures resources are allocated to new opportunities."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is an example of a procedural element in planning?",
+    "options": [
+      "The overall goal of increasing student enrollment.",
+      "The detailed steps for conducting entrance exams.",
+      "The principles that guide decision-making.",
+      "The strategies for improving academic performance."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "What should be considered when selecting the best alternative in the planning process?",
+    "options": [
+      "The availability of resources and alignment with goals.",
+      "The lowest possible cost, regardless of resources.",
+      "The potential risks without regard to goals.",
+      "The quickest execution time, without proper planning."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is true about strategies in planning?",
+    "options": [
+      "They are short-term goals that change frequently.",
+      "They focus on achieving long-term objectives and competitive advantage.",
+      "They only involve setting clear, measurable goals.",
+      "They have no flexibility and must be strictly followed."
+    ],
+    "answer": "b"
+  }
+]

@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "question": "The function of controlling in management is to ensure that activities are performed as per the ________.",
+    "answer": "plans"
+  },
+  {
+    "id": 2,
+    "question": "Effective controlling involves analyzing discrepancies between ________ and actual performance.",
+    "answer": "planned"
+  },
+  {
+    "id": 3,
+    "question": "________ plays a pivotal role in the controlling process by guiding and supervising activities.",
+    "answer": "Leadership"
+  },
+  {
+    "id": 4,
+    "question": "Controlling is often mistaken for a restrictive function, but it is more about ________ than prohibiting actions.",
+    "answer": "guiding"
+  },
+  {
+    "id": 5,
+    "question": "According to Henri Fayol, controlling involves seeing that everything is being carried out in accordance with ________, orders, and principles.",
+    "answer": "the plan"
+  },
+  {
+    "id": 6,
+    "question": "The process of controlling starts at the top management and ________ down to the operational level.",
+    "answer": "cascades"
+  },
+  {
+    "id": 7,
+    "question": "Controlling ensures that all activities are ________ to achieve organizational goals efficiently.",
+    "answer": "goal-oriented"
+  },
+  {
+    "id": 8,
+    "question": "________ control anticipates and prevents potential deviations before they occur.",
+    "answer": "Feed forward"
+  },
+  {
+    "id": 9,
+    "question": "________ controls operate in real-time and detect deviations instantly during execution.",
+    "answer": "Concurrent"
+  },
+  {
+    "id": 10,
+    "question": "________ controls focus on evaluating the outcomes of processes and improving them for the future.",
+    "answer": "Feedback"
+  }
+]

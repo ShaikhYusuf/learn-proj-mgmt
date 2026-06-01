@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary role of motivation in personal success?",
+    "options": [
+      "To force individuals to complete tasks",
+      "To help individuals achieve long-term goals",
+      "To create competition among individuals",
+      "To ensure individuals receive external rewards"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT an example of intrinsic motivation?",
+    "options": [
+      "Studying because you enjoy learning",
+      "Working overtime to receive a bonus",
+      "Learning a new skill for personal satisfaction",
+      "Painting because you enjoy the act of creating"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Maslow's Hierarchy of Needs starts with which of the following needs?",
+    "options": [
+      "Self-actualization needs",
+      "Esteem needs",
+      "Safety needs",
+      "Physiological needs"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a characteristic of intrinsic motivation?",
+    "options": [
+      "The motivation comes from external rewards",
+      "The activity itself is rewarding",
+      "It is focused on avoiding punishment",
+      "It leads to immediate tangible outcomes"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "According to Maslow, which need is associated with the desire for respect, recognition, and status?",
+    "options": [
+      "Physiological needs",
+      "Safety needs",
+      "Esteem needs",
+      "Self-actualization needs"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a key feature of extrinsic motivation?",
+    "options": [
+      "It is driven by internal satisfaction",
+      "The activity itself is enjoyable",
+      "It is motivated by external rewards or recognition",
+      "It leads to sustainable engagement over time"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 7,
+    "question": "Which need in Maslow's hierarchy is focused on personal growth and achieving one's full potential?",
+    "options": [
+      "Physiological needs",
+      "Safety needs",
+      "Esteem needs",
+      "Self-actualization needs"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 8,
+    "question": "In an organizational context, why is motivation crucial for managers?",
+    "options": [
+      "To reduce employee satisfaction",
+      "To decrease productivity",
+      "To help employees meet personal goals",
+      "To improve employee performance and job satisfaction"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is an example of extrinsic motivation?",
+    "options": [
+      "Learning a new language for personal growth",
+      "Participating in a sport for enjoyment",
+      "Working for a paycheck",
+      "Reading a book for personal interest"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a criticism of Maslow's theory?",
+    "options": [
+      "It is widely supported by empirical evidence",
+      "It fails to account for cultural and personal variations",
+      "It includes too few levels of needs",
+      "It overemphasizes self-actualization needs"
+    ],
+    "answer": "b"
+  }
+]

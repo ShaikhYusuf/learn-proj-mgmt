@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "question": "What is the role of organizing in management?",
+    "options": [
+      "It helps in categorizing, assigning, and executing tasks to ensure smooth operations.",
+      "It is the process of defining the goals of an organization.",
+      "It focuses on the planning and budgeting of organizational resources."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "What does an organization chart represent?",
+    "options": [
+      "A graphical representation of the organizational structure, roles, and reporting lines.",
+      "The financial status and profit distribution within the organization.",
+      "A schedule of tasks and their deadlines within an organization."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is an advantage of organizing?",
+    "options": [
+      "It helps in creating a sense of unity among employees.",
+      "It enables the management of organizational conflicts by defining clear roles.",
+      "It ensures that only the highest-ranking employees make decisions."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "How does organizing contribute to the efficiency of an organization?",
+    "options": [
+      "By promoting competition between employees.",
+      "By defining roles and responsibilities to minimize confusion and duplication of tasks.",
+      "By ensuring that the organization operates without any clear hierarchical structure."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Why is organizing essential in terms of technological improvements?",
+    "options": [
+      "It helps in streamlining tasks and incorporating technological advancements into operations.",
+      "It ensures that the technology used within an organization is kept secret.",
+      "It reduces the need for any technological tools or software in an institution."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 6,
+    "question": "What does organizing promote in terms of creativity within an organization?",
+    "options": [
+      "It restricts creativity by limiting the freedom of employees.",
+      "It stimulates creativity by providing employees with the freedom to explore new ideas within their roles.",
+      "It prevents employees from suggesting any innovative solutions."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following best defines organizing as a process?",
+    "options": [
+      "Grouping and coordinating activities to achieve specific objectives.",
+      "A way to monitor the performance of the organization.",
+      "Defining the organization's objectives and strategies."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 8,
+    "question": "In a school setting, what role does organizing play?",
+    "options": [
+      "It determines the teacher’s salary.",
+      "It ensures that the tasks of teaching, examinations, and student welfare are clearly assigned and managed.",
+      "It defines the curriculum without considering the teachers' inputs."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "What advantage does organizing provide when training new employees?",
+    "options": [
+      "It ensures that all new employees perform the same tasks.",
+      "It helps new employees understand their roles and responsibilities through organizational charts.",
+      "It reduces the need for any formal training programs."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "What is the impact of organizing on the growth of an organization?",
+    "options": [
+      "It ensures that an organization grows without a formal structure.",
+      "It supports growth by establishing a framework to accommodate new activities, departments, and tasks.",
+      "It limits the scope of organizational expansion by restricting the number of departments."
+    ],
+    "answer": "b"
+  }
+]

@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the first step of the management process?",
+    "options": [
+      "Organizing",
+      "Planning",
+      "Leading",
+      "Controlling"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a characteristic of planning?",
+    "options": [
+      "Goal-Oriented",
+      "Futuristic",
+      "Random",
+      "Comprehensive"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "Which of these is an objective of planning?",
+    "options": [
+      "To reduce goals",
+      "To increase organizational effectiveness",
+      "To avoid decision-making",
+      "To create confusion"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "What does planning help reduce?",
+    "options": [
+      "Clarity",
+      "Uncertainty",
+      "Coordination",
+      "Control"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is a key characteristic of planning?",
+    "options": [
+      "Rigid",
+      "Flexible",
+      "Lack of focus",
+      "Incomprehensive"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "What is the primary purpose of planning in management?",
+    "options": [
+      "To create unnecessary tasks",
+      "To achieve goals efficiently and effectively",
+      "To focus on short-term results",
+      "To eliminate all risks"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is an example of a goal-oriented action in planning?",
+    "options": [
+      "Scheduling random meetings",
+      "Aligning activities with organizational goals",
+      "Ignoring future trends",
+      "Reacting to changes without preparation"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Why is flexibility important in planning?",
+    "options": [
+      "It ensures plans remain unchanged",
+      "It allows adjustments to unforeseen events",
+      "It increases rigidity",
+      "It eliminates the need for coordination"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "What does effective planning help to minimize?",
+    "options": [
+      "Resource wastage",
+      "Workforce inefficiency",
+      "Communication problems",
+      "Coordination issues"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "How does planning contribute to coordination?",
+    "options": [
+      "It reduces communication",
+      "It ensures synchronization of activities",
+      "It eliminates cross-functional dependencies",
+      "It increases conflict"
+    ],
+    "answer": "b"
+  }
+]

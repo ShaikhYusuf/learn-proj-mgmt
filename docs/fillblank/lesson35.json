@@ -1,0 +1,45 @@
+{
+  "lesson_number": "35",
+  "lesson_title": "Theories of Leadership – II",
+  "questions": [{
+      "question_id": 1,
+      "question": "Leadership effectiveness in the Contingency Theory is dependent on the interplay between the leader’s style and the __________.",
+      "answer": "situation’s characteristics"
+    },
+    {
+      "question_id": 2,
+      "question": "Situations vary in complexity, urgency, team dynamics, and organizational goals, requiring __________ leadership responses.",
+      "answer": "tailored"
+    },
+    {
+      "question_id": 3,
+      "question": "Fiedler argued that leaders tend to adopt either a __________ style based on their personalities and inherent traits.",
+      "answer": "task-oriented or relationship-oriented"
+    },
+    {
+      "question_id": 4,
+      "question": "Fiedler’s model determines the favorableness of a situation for a leader based on the variables: leader-member relations, task structure, and __________ position power.",
+      "answer": "leader’s"
+    },
+    {
+      "question_id": 5,
+      "question": "Fiedler identified two primary leadership styles: __________ and __________ leadership.",
+      "answer": "task-oriented, relationship-oriented"
+    },
+    {
+      "question_id": 6,
+      "question": "Fiedler’s Contingency Model consists of three key steps: identifying leadership style, defining the situation, and __________ leadership style to the situation.",
+      "answer": "matching"
+    },
+    {
+      "question_id": 7,
+      "question": "Highly favorable situations in Fiedler’s model have strong leader-member relations, high task structure, and __________ position power.",
+      "answer": "strong"
+    },
+    {
+      "question_id": 8,
+      "question": "Unfavorable situations in Fiedler’s model have poor leader-member relations, low task structure, and __________ position power.",
+      "answer": "weak"
+    }
+  ]
+}

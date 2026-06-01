@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "question": "Stress arises from a variety of factors and situations that challenge an individual’s ability to cope. These causes can be categorized into three main types. What are these categories?",
+    "answer": "Personal, Environmental, Professional"
+  },
+  {
+    "id": 2,
+    "question": "One personal cause of stress is fear, which can arise from situations involving _____, health concerns, or financial insecurities.",
+    "answer": "personal safety"
+  },
+  {
+    "id": 3,
+    "question": "_____ can lead to increased anxiety and stress due to lack of clarity or predictability about future events.",
+    "answer": "Uncertainty"
+  },
+  {
+    "id": 4,
+    "question": "Major life changes or traumatic experiences, such as divorce, the death of a loved one, or natural disasters, are examples of _____ causes of stress.",
+    "answer": "Life Events and Traumas"
+  },
+  {
+    "id": 5,
+    "question": "_____ is a significant environmental cause of stress that includes living in unsafe neighborhoods or areas prone to natural disasters.",
+    "answer": "Physical Threats"
+  },
+  {
+    "id": 6,
+    "question": "_____ are social pressures stemming from expectations imposed by family, friends, or society to conform to certain norms or achieve specific goals.",
+    "answer": "Social Pressures"
+  },
+  {
+    "id": 7,
+    "question": "Lack of basic amenities like water, electricity, or transportation can contribute to stress. This is categorized as _____ causes of stress.",
+    "answer": "Inadequate Resources"
+  },
+  {
+    "id": 8,
+    "question": "One professional cause of stress is _____, where excessive responsibilities within tight deadlines can overwhelm individuals.",
+    "answer": "Workload and Deadlines"
+  },
+  {
+    "id": 9,
+    "question": "Conflicts with colleagues, leadership issues, or lack of cooperation in teams are examples of _____ challenges that cause stress in the workplace.",
+    "answer": "Interpersonal"
+  },
+  {
+    "id": 10,
+    "question": "_____ stressors in the workplace can arise from poor lighting, noise, or lack of clean drinking water.",
+    "answer": "Physical Demands"
+  },
+  {
+    "id": 11,
+    "question": "_____ refers to the contradictory expectations or moral dilemmas tied to job roles, which can induce stress.",
+    "answer": "Role Conflict"
+  },
+  {
+    "id": 12,
+    "question": "One life stressor is _____, which includes meaningful alterations in one’s life or work situations, even positive changes like a promotion.",
+    "answer": "Life Change"
+  },
+  {
+    "id": 13,
+    "question": "_____ stress results from deeply distressing or disturbing events such as the loss of a loved one or recovering from a natural disaster.",
+    "answer": "Life Trauma"
+  },
+  {
+    "id": 14,
+    "question": "Effective stress management can include techniques like _____, which helps to calm the mind and reduce physiological stress responses.",
+    "answer": "Relaxation Techniques"
+  },
+  {
+    "id": 15,
+    "question": "_____ techniques such as deep breathing exercises, meditation, and mindfulness can help improve focus and reduce anxiety.",
+    "answer": "Relaxation"
+  },
+  {
+    "id": 16,
+    "question": "One key component of personal stress management is _____, which involves prioritizing tasks and allocating time effectively to avoid feeling overwhelmed.",
+    "answer": "Time Management"
+  },
+  {
+    "id": 17,
+    "question": "_____ strategies include providing clear communication, detailed job descriptions, and constructive feedback to minimize stress in the workplace.",
+    "answer": "Organizational"
+  },
+  {
+    "id": 18,
+    "question": "One organizational strategy to reduce workplace stress is _____, which allows employees flexibility in managing their personal commitments.",
+    "answer": "Flexibility and Support"
+  },
+  {
+    "id": 19,
+    "question": "_____ training aims to empower employees to manage tasks effectively and adapt to workplace challenges.",
+    "answer": "Training and Development"
+  },
+  {
+    "id": 20,
+    "question": "_____ strategies to mitigate stress include maintaining strong relationships with family, friends, or colleagues to share concerns.",
+    "answer": "Social"
+  }
+]

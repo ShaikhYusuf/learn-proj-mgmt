@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary cause of conflict?",
+    "options": [
+      "Differences in goals, values, or behaviors",
+      "Miscommunication",
+      "Role conflict",
+      "Poor leadership"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is an example of a positive outcome of conflict?",
+    "options": [
+      "Increased tension and hostility",
+      "Encouraging reevaluation of strategies",
+      "Increased aggression",
+      "Complete breakdown of relationships"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Which type of conflict occurs between two individuals with opposing views?",
+    "options": [
+      "Intragroup conflict",
+      "Interpersonal conflict",
+      "Resource scarcity conflict",
+      "Organizational conflict"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is NOT a key characteristic of conflict?",
+    "options": [
+      "Natural and inevitable",
+      "Always caused by miscommunication",
+      "Struggle for resources",
+      "Expression through direct or indirect means"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "What is latent conflict?",
+    "options": [
+      "Conflict that is overt and obvious",
+      "Conflict that remains dormant until it is triggered",
+      "Conflict that is resolved through negotiation",
+      "Conflict that occurs without interaction"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "What role do cultural differences play in conflict?",
+    "options": [
+      "They are irrelevant in most conflicts",
+      "They can lead to misunderstandings and incompatibilities",
+      "They always escalate conflicts to violence",
+      "They always resolve conflicts peacefully"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is an example of indirect expression of conflict?",
+    "options": [
+      "Verbal confrontation",
+      "Silent treatment",
+      "Direct negotiation",
+      "Clear communication"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "What is one potential consequence of poor communication in conflict?",
+    "options": [
+      "Quick resolution",
+      "Escalation of conflict",
+      "Improved understanding",
+      "Mutual agreement"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "What is an example of conflict arising from resource scarcity?",
+    "options": [
+      "A disagreement about the allocation of a limited budget",
+      "Two friends debating cultural values",
+      "A difference in personality types",
+      "A competition between employees for a promotion"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following scenarios represents a behavioral clash in conflict?",
+    "options": [
+      "Two teams fighting for the same project funding",
+      "A person feeling excluded from a group conversation in a different language",
+      "Misunderstandings due to miscommunication",
+      "Disagreements over the values of fairness"
+    ],
+    "answer": "b"
+  }
+]

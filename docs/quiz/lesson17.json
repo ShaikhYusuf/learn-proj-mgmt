@@ -1,0 +1,56 @@
+[{
+    "id": 6,
+    "question": "Which type of leadership focuses on building good relationships with employees?",
+    "options": [
+      "Autocratic leadership",
+      "Transformational leadership",
+      "Democratic leadership",
+      "Laissez-faire leadership"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 7,
+    "question": "What is the primary objective of motivation in management?",
+    "options": [
+      "To assign tasks to employees",
+      "To inspire employees to achieve organizational goals",
+      "To establish performance standards",
+      "To monitor employee performance"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "What does the term 'span of control' refer to in an organization?",
+    "options": [
+      "The number of employees under a manager's direct supervision",
+      "The total number of managers in an organization",
+      "The amount of control a manager has over the organization's finances",
+      "The level of authority a manager holds in decision-making"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is NOT a characteristic of effective communication?",
+    "options": [
+      "Clarity of message",
+      "Quick delivery",
+      "Two-way interaction",
+      "Consideration of the receiver's understanding"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "What is the key role of coordination in management?",
+    "options": [
+      "To resolve employee disputes",
+      "To align individual and group efforts towards organizational goals",
+      "To reduce the workload of managers",
+      "To increase financial resources"
+    ],
+    "answer": "b"
+  }
+]

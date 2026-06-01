@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the first step in the decision-making process?",
+    "options": [
+      "Identifying the Alternatives",
+      "Gathering Information",
+      "Identifying the Problem",
+      "Evaluating Alternatives"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 2,
+    "question": "What is a key characteristic of decision making under uncertainty?",
+    "options": [
+      "Risk and Reward",
+      "Time Constraints",
+      "Emotions",
+      "All of the above"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is NOT a type of decision?",
+    "options": [
+      "Strategic Decisions",
+      "Tactical Decisions",
+      "Personal Decisions",
+      "Linear Decisions"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 4,
+    "question": "What is the purpose of gathering information in the decision-making process?",
+    "options": [
+      "To generate alternatives",
+      "To understand the situation better",
+      "To make a quick decision",
+      "To reduce emotions"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is an example of a routine decision?",
+    "options": [
+      "Choosing a career path",
+      "Deciding what to have for breakfast",
+      "Launching a new product line",
+      "Negotiating a merger"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "In decision-making, which tool helps to assess alternatives in terms of strengths, weaknesses, opportunities, and threats?",
+    "options": [
+      "SWOT Analysis",
+      "Cost-Benefit Analysis",
+      "Decision Matrix",
+      "Risk Assessment"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "What should be done after a decision has been implemented?",
+    "options": [
+      "Ignore the outcomes",
+      "Review and evaluate the decision",
+      "Make another decision immediately",
+      "Celebrate the decision"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is considered when evaluating alternatives in the decision-making process?",
+    "options": [
+      "Costs and Benefits",
+      "Feasibility",
+      "Risks",
+      "All of the above"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 9,
+    "question": "What type of decision is made frequently and typically has short-term consequences?",
+    "options": [
+      "Tactical Decision",
+      "Strategic Decision",
+      "Routine Decision",
+      "Personal Decision"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 10,
+    "question": "What is the final stage of the decision-making process?",
+    "options": [
+      "Gathering Information",
+      "Implementing the Decision",
+      "Evaluating Alternatives",
+      "Reviewing and Reflecting on the Decision"
+    ],
+    "answer": "d"
+  }
+]

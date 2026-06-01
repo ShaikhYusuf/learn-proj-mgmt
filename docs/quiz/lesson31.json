@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "Which of the following is a personal cause of stress?",
+    "options": [
+      "Workload and deadlines",
+      "Fear and uncertainty",
+      "Physical working conditions",
+      "Global events"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is an example of environmental stress?",
+    "options": [
+      "Sleep deprivation",
+      "Fear of job loss",
+      "Living in an unsafe neighborhood",
+      "Interpersonal conflicts"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is a professional cause of stress?",
+    "options": [
+      "Divorce",
+      "Excessive workload",
+      "Natural disasters",
+      "Family expectations"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "What is 'cognitive restructuring' in stress management?",
+    "options": [
+      "Changing behavior patterns",
+      "Replacing negative thoughts with positive ones",
+      "Engaging in physical activities",
+      "Setting realistic goals and deadlines"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is a time management tip for stress reduction?",
+    "options": [
+      "Avoid creating to-do lists",
+      "Set unrealistic goals",
+      "Use scheduling tools or apps",
+      "Ignore deadlines"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is an example of a life stressor?",
+    "options": [
+      "Interpersonal conflicts at work",
+      "Divorce or the death of a loved one",
+      "Excessive workload",
+      "Poor working conditions"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Which strategy can be used to manage stress at the organizational level?",
+    "options": [
+      "Avoid team building activities",
+      "Provide clear communication and feedback",
+      "Increase job demands without support",
+      "Reduce flexibility in work hours"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "What is a key feature of life change stressors?",
+    "options": [
+      "They always cause negative emotions",
+      "They are only related to work",
+      "They can be caused by both positive and negative events",
+      "They are always predictable"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is an example of a relaxation technique?",
+    "options": [
+      "Progressive muscle relaxation",
+      "Overworking without breaks",
+      "Excessive caffeine consumption",
+      "Ignoring personal boundaries"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a professional strategy to reduce stress?",
+    "options": [
+      "Increase role ambiguity",
+      "Offer employee assistance programs (EAPs)",
+      "Promote unrealistic expectations",
+      "Ignore team conflicts"
+    ],
+    "answer": "b"
+  }
+]

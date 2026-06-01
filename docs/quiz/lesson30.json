@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary definition of stress?",
+    "options": [
+      "A feeling of happiness or joy.",
+      "A natural response to external or internal pressures.",
+      "A type of physical exercise.",
+      "A form of relaxation technique."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Who first coined the term 'stress'?",
+    "options": [
+      "Sigmund Freud",
+      "Hans Selye",
+      "Richard S. Lazarus",
+      "Arnold and Feldman"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is an example of eustress?",
+    "options": [
+      "Feeling anxious about an upcoming job interview.",
+      "Getting promoted at work and feeling excited.",
+      "Worrying about a financial crisis.",
+      "Dealing with a breakup."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Which type of stress is known as 'bad stress'?",
+    "options": [
+      "Eustress",
+      "Neutral Stress",
+      "Distress",
+      "Acute Stress"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 5,
+    "question": "What is the 'fight-or-flight' response?",
+    "options": [
+      "A physical reaction to stress, preparing the body for action.",
+      "A type of relaxation technique.",
+      "A psychological response to sadness.",
+      "A method of handling pressure in social situations."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a common source of chronic stress?",
+    "options": [
+      "Short-term work pressure",
+      "Ongoing job insecurity",
+      "A challenging project deadline",
+      "Preparing for a public speech"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Which definition of stress was provided by Richard S. Lazarus?",
+    "options": [
+      "A feeling of mental pressure caused by life's problems.",
+      "A state of tension that arises from a demand for adjustment.",
+      "A feeling experienced when a person perceives that demands exceed their resources.",
+      "A physical response to a threat or danger."
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 8,
+    "question": "What is the primary effect of chronic stress on the body?",
+    "options": [
+      "Increased energy levels and focus",
+      "Weakening of the immune system",
+      "Enhanced cognitive function",
+      "Temporary relaxation"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "What type of stress is associated with performing well under pressure?",
+    "options": [
+      "Eustress",
+      "Distress",
+      "Neutral Stress",
+      "Chronic Stress"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is an example of acute stress?",
+    "options": [
+      "Struggling with long-term financial difficulties.",
+      "Feeling stressed before an important presentation.",
+      "Experiencing chronic work pressure.",
+      "Ongoing relationship conflicts."
+    ],
+    "answer": "b"
+  }
+]

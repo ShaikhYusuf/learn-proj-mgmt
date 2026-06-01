@@ -1,0 +1,111 @@
+ [{
+     "id": 1,
+     "question": "What does educational management refer to?",
+     "options": [
+       "Systematic planning, organizing, directing, and controlling of resources within educational institutions.",
+       "Strict adherence to government policies in educational institutions.",
+       "Setting up infrastructure for educational institutions only.",
+       "Focus on research and development in educational institutions."
+     ],
+     "answer": "a"
+   },
+   {
+     "id": 2,
+     "question": "What is the main reason for the dynamic nature of educational institutions?",
+     "options": [
+       "Technological advancements, policy changes, and societal needs.",
+       "Focus on the student-teacher ratio.",
+       "Strict adherence to traditional teaching methods.",
+       "Focus on infrastructure and resources only."
+     ],
+     "answer": "a"
+   },
+   {
+     "id": 3,
+     "question": "What was the origin of educational management?",
+     "options": [
+       "United States in the early 20th century.",
+       "United Kingdom in the 1960s.",
+       "China in the 1950s.",
+       "India in the 1980s."
+     ],
+     "answer": "a"
+   },
+   {
+     "id": 4,
+     "question": "According to Henry Fayol, which of the following is NOT one of the core functions of management?",
+     "options": [
+       "Commanding",
+       "Organizing",
+       "Teaching",
+       "Controlling"
+     ],
+     "answer": "c"
+   },
+   {
+     "id": 5,
+     "question": "What is the scope of educational management?",
+     "options": [
+       "Includes institutions, stakeholders, resources, and functions.",
+       "Only includes stakeholders and human resources.",
+       "Primarily focuses on infrastructure and physical resources.",
+       "Only includes the teaching and research functions of institutions."
+     ],
+     "answer": "a"
+   },
+   {
+     "id": 6,
+     "question": "Which of the following is NOT a purpose of educational management?",
+     "options": [
+       "Enhancing efficiency and achieving institutional goals.",
+       "Ensuring that all stakeholders comply with regulations.",
+       "Improving quality of education, teaching, and community engagement.",
+       "Creating a positive and motivating environment for staff and students."
+     ],
+     "answer": "b"
+   },
+   {
+     "id": 7,
+     "question": "What is one of the primary needs for educational management?",
+     "options": [
+       "Adapting to changes in the educational system.",
+       "Adhering strictly to outdated educational policies.",
+       "Focusing on the commercialization of education.",
+       "Reducing the number of students in schools."
+     ],
+     "answer": "a"
+   },
+   {
+     "id": 8,
+     "question": "What is the role of educational management in resource utilization?",
+     "options": [
+       "Ensuring the right placement of staff based on skills.",
+       "Maximizing profits from educational institutions.",
+       "Reducing student involvement in institutional activities.",
+       "Focusing on increasing student fees to balance the budget."
+     ],
+     "answer": "a"
+   },
+   {
+     "id": 9,
+     "question": "What is one of the objectives of educational management?",
+     "options": [
+       "Enhancing institutional efficiency and reducing wastage.",
+       "Ensuring that educational institutions operate with no rules.",
+       "Minimizing teacher-student interactions.",
+       "Limiting the role of community engagement."
+     ],
+     "answer": "a"
+   },
+   {
+     "id": 10,
+     "question": "What is a key component of conflict management in educational management?",
+     "options": [
+       "Promoting collaboration and teamwork among stakeholders.",
+       "Avoiding all conflicts at any cost.",
+       "Ignoring conflicts among staff and students.",
+       "Using punitive measures to handle conflicts."
+     ],
+     "answer": "a"
+   }
+ ]

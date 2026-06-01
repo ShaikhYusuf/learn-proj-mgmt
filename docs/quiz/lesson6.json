@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "Which of the following is NOT a category of managerial roles as classified by Henry Mintzberg?",
+    "options": [
+      "Interpersonal Role",
+      "Informational Role",
+      "Decisional Role",
+      "Strategic Role"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 2,
+    "question": "What is the primary responsibility of the 'Leader' sub-role in the interpersonal role?",
+    "options": [
+      "To manage crises and unexpected events",
+      "To motivate, mentor, and evaluate employee performance",
+      "To initiate and implement innovation within the organization",
+      "To manage resource allocation"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "In which scenario did Mr. Kulkarni play the 'Spokesperson' role?",
+    "options": [
+      "He managed teacher performance and gathered feedback",
+      "He participated in ceremonial activities and signed reports",
+      "He prepared brochures and advertisements to inform the public about the school",
+      "He mediated between teachers and management during the strike"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "Which sub-role of the informational role involves gathering internal and external information to monitor the performance of employees, students, and the organization?",
+    "options": [
+      "Disseminator",
+      "Monitor",
+      "Spokesperson",
+      "Leader"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "What is the main focus of the decisional role of a manager?",
+    "options": [
+      "Building relationships within the organization",
+      "Handling the communication of information",
+      "Making strategic decisions and resolving issues",
+      "Monitoring and assessing the performance of the organization"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 6,
+    "question": "In the case of the teacher strike, which role did Mr. Kulkarni play when he communicated with teachers and top management?",
+    "options": [
+      "Negotiator",
+      "Entrepreneur",
+      "Monitor",
+      "Leader"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "What is the primary responsibility of a manager in the 'Liaison' sub-role?",
+    "options": [
+      "Represent the organization in external negotiations",
+      "Communicate and share information with stakeholders inside and outside the organization",
+      "Handle conflicts and crises within the organization",
+      "Evaluate employee performance and set goals"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following actions is an example of the 'Entrepreneur' role?",
+    "options": [
+      "Setting performance goals for employees",
+      "Allocating resources to achieve objectives",
+      "Introducing new teaching methods, such as ICT integration",
+      "Building relationships with external stakeholders"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 9,
+    "question": "In what scenario did Mr. Kulkarni play the 'Figurehead' role?",
+    "options": [
+      "He mediated between teachers and management during a strike",
+      "He participated in ceremonial activities and signed legal documents",
+      "He evaluated the performance of teachers and set goals",
+      "He allocated resources to meet the school’s needs"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Which role is added by Coulson (1987) to Mintzberg's classification of managerial roles?",
+    "options": [
+      "Strategic Role",
+      "Leading Professional Role",
+      "Supportive Role",
+      "Operational Role"
+    ],
+    "answer": "b"
+  }
+]

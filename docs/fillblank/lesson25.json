@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "question": "What is the key factor that influences human behavior in the workplace?",
+    "answer": "Motivation"
+  },
+  {
+    "id": 2,
+    "question": "Who proposed the Two-Factor Theory of motivation?",
+    "answer": "Frederick Herzberg"
+  },
+  {
+    "id": 3,
+    "question": "What are the two main sets of factors in Herzberg's Two-Factor Theory?",
+    "answer": "Motivators and Hygiene factors"
+  },
+  {
+    "id": 4,
+    "question": "Hygiene factors in Herzberg’s theory primarily serve to prevent what?",
+    "answer": "Dissatisfaction"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is considered a Hygiene factor?",
+    "answer": "Pay"
+  },
+  {
+    "id": 6,
+    "question": "What do Motivational factors in Herzberg's theory focus on?",
+    "answer": "Job satisfaction and intrinsic motivation"
+  },
+  {
+    "id": 7,
+    "question": "Which factor does NOT fall under Motivational factors?",
+    "answer": "Job security"
+  },
+  {
+    "id": 8,
+    "question": "According to Herzberg, the opposite of dissatisfaction is not satisfaction, but what?",
+    "answer": "No dissatisfaction"
+  },
+  {
+    "id": 9,
+    "question": "What is the ideal scenario in the combination of Hygiene and Motivational factors?",
+    "answer": "High Hygiene + High Motivation"
+  },
+  {
+    "id": 10,
+    "question": "What is one strategy to eliminate job dissatisfaction in the workplace?",
+    "answer": "Improve company policies"
+  }
+]

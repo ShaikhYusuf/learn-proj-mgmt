@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "question": "Controlling ensures that the organization's objectives are achieved effectively and efficiently by _____ and evaluating the performance of tasks.",
+    "answer": "monitoring"
+  },
+  {
+    "id": 2,
+    "question": "The first step in controlling is the _____ of controlled standards, which are based on the objectives set during the planning phase.",
+    "answer": "establishment"
+  },
+  {
+    "id": 3,
+    "question": "The second step in controlling involves the _____ of performance, where data is collected on how well tasks and activities are being completed.",
+    "answer": "measurement"
+  },
+  {
+    "id": 4,
+    "question": "After measuring performance, the next step is to _____ the actual performance with the set standards to identify discrepancies.",
+    "answer": "compare"
+  },
+  {
+    "id": 5,
+    "question": "If deviations are found between the actual performance and the expected standards, _____ actions are taken to bridge the gap.",
+    "answer": "corrective"
+  },
+  {
+    "id": 6,
+    "question": "Effective _____ ensures that everyone involved understands where improvements are needed and what steps will be taken to address them.",
+    "answer": "communication"
+  },
+  {
+    "id": 7,
+    "question": "Directing involves motivating, guiding, and leading people to achieve organizational goals through _____, supervision, and communication.",
+    "answer": "leadership"
+  },
+  {
+    "id": 8,
+    "question": "The process of directing starts with setting _____ goals and ensuring that every team member understands their role in achieving these goals.",
+    "answer": "clear"
+  },
+  {
+    "id": 9,
+    "question": "Directing plays a significant role in achieving organizational objectives by fostering a positive work culture and promoting _____ across different departments.",
+    "answer": "coordination"
+  },
+  {
+    "id": 10,
+    "question": "Through controlling, managers ensure that resources are used optimally and the organization is achieving its goals with minimal _____.",
+    "answer": "waste"
+  }
+]

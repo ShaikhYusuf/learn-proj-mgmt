@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary purpose of Organizational Development (OD)?",
+    "options": [
+      "To reduce operational costs",
+      "To improve organizational effectiveness and adaptability",
+      "To create new market strategies",
+      "To restructure the organization"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a key characteristic of OD?",
+    "options": [
+      "Planned Effort",
+      "Organization-Wide Impact",
+      "Focus on Short-Term Goals",
+      "Behavioral Science Foundation"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "How does OD address the human side of organizations?",
+    "options": [
+      "By focusing on employee well-being and motivation",
+      "By reducing employee benefits",
+      "By implementing more rigid hierarchies",
+      "By enhancing product designs"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is an example of OD in action?",
+    "options": [
+      "A company introducing a new customer relationship management system to improve service delivery",
+      "A company cutting employee salaries to reduce expenses",
+      "A company expanding its product range without any internal changes",
+      "A company firing underperforming employees without any feedback mechanisms"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 5,
+    "question": "Why is training an important aspect of OD?",
+    "options": [
+      "It helps employees adjust to technological changes and evolving market strategies",
+      "It ensures that employees remain in their current roles without any growth",
+      "It discourages employees from adapting to change",
+      "It is only necessary for top management"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 6,
+    "question": "What does OD focus on when improving organizational culture?",
+    "options": [
+      "Encouraging innovation, collaboration, and inclusivity",
+      "Enforcing strict adherence to old policies",
+      "Cutting costs in employee engagement programs",
+      "Increasing hierarchy and centralization"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is a key objective of OD?",
+    "options": [
+      "Encouraging short-term results without considering long-term vision",
+      "Aligning organizational goals with employee well-being",
+      "Focusing only on increasing sales",
+      "Reinforcing rigid, traditional management structures"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Which of these is a major reason for the need for Organizational Development?",
+    "options": [
+      "Avoiding any form of change or innovation",
+      "Coping with technological advancements and shifting market demands",
+      "Reducing competition in the market",
+      "Minimizing employee interaction"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Which field does OD draw from to address organizational challenges?",
+    "options": [
+      "Psychology",
+      "Sociology",
+      "Anthropology",
+      "All of the above"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 10,
+    "question": "How does OD help organizations deal with external pressures such as competition?",
+    "options": [
+      "By encouraging a passive approach to market changes",
+      "By promoting a culture of innovation and proactive change management",
+      "By focusing on minimizing external influences",
+      "By disregarding market fluctuations"
+    ],
+    "answer": "b"
+  }
+]

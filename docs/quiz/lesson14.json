@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary purpose of organizations and institutions?",
+    "options": [
+      "To serve specific purposes and achieve goals",
+      "To maintain a workforce",
+      "To create a hierarchy",
+      "To reduce costs"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "Why are multiple positions necessary within an organization?",
+    "options": [
+      "Because the organization has complex goals",
+      "To divide the organization into departments",
+      "To increase efficiency",
+      "To reduce employee workload"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 3,
+    "question": "What role do human resources play in an organization?",
+    "options": [
+      "They are responsible for recruiting new staff",
+      "They manage finances and budgeting",
+      "They bring knowledge, skills, and dedication to the organization",
+      "They focus solely on administration"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is NOT an example of a role within an educational institution?",
+    "options": [
+      "Principal",
+      "Teacher",
+      "Driver",
+      "Support staff"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 5,
+    "question": "What is staffing?",
+    "options": [
+      "The process of filling vacant positions",
+      "The process of recruiting employees only",
+      "The function of hiring, developing, appraising, and retaining employees",
+      "The evaluation of employees after hiring"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 6,
+    "question": "What is a key benefit of a well-planned staffing strategy?",
+    "options": [
+      "It leads to a lack of roles",
+      "It ensures vacancies are filled quickly",
+      "It ensures the right individuals are placed in the right roles",
+      "It reduces the number of employees in an organization"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is NOT part of the staffing process?",
+    "options": [
+      "Workforce analysis",
+      "Recruitment",
+      "Performance evaluation",
+      "Project planning"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 8,
+    "question": "What could happen if an organization has inefficient staffing?",
+    "options": [
+      "It will increase productivity",
+      "It may lead to inefficiencies and unmet goals",
+      "It will ensure that all roles are fulfilled",
+      "It will reduce the number of staff required"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Which is an example of a staffing mistake in an educational institution?",
+    "options": [
+      "Hiring a teacher with poor subject knowledge",
+      "Hiring a support staff member with excellent organizational skills",
+      "Providing adequate training to staff",
+      "Assigning the right tasks to the right people"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "Why is selection an important part of the staffing process?",
+    "options": [
+      "It ensures the organization hires employees only for internal positions",
+      "It prevents mismatches between roles and employee competencies",
+      "It evaluates the performance of employees",
+      "It monitors the day-to-day activities of employees"
+    ],
+    "answer": "b"
+  }
+]

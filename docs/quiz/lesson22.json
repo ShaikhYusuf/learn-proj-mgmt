@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "question": "What is the primary focus of Human Resource Management (HRM)?",
+    "options": [
+      "Managing financial resources",
+      "Managing human capital (employees)",
+      "Managing physical resources"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a key type of resource in an organization?",
+    "options": [
+      "Human resources",
+      "Financial resources",
+      "Technological resources"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "What is the role of HRM in the recruitment and selection process?",
+    "options": [
+      "Managing the organization's capital",
+      "Identifying and hiring the right candidates for roles",
+      "Setting performance expectations for employees"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "What does HRM focus on in employee motivation?",
+    "options": [
+      "Salary only",
+      "Financial and non-financial incentives",
+      "Training and development"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "What is a key feature of modern HRM?",
+    "options": [
+      "Focus only on administrative functions",
+      "HRM is seen as a strategic partner in the organization",
+      "HRM is solely concerned with hiring and firing"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "In which area does HRM play a significant role in organizational effectiveness?",
+    "options": [
+      "Providing physical resources",
+      "Attracting, developing, motivating, and retaining talent",
+      "Setting financial budgets"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is NOT a typical responsibility of HRM?",
+    "options": [
+      "Training and development of employees",
+      "Managing technological resources",
+      "Employee relations and conflict resolution"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "What is the concept of HRM at the family level?",
+    "options": [
+      "Managing the family’s physical resources",
+      "Assigning roles and responsibilities to family members based on goals",
+      "Hiring and firing family members"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "What does HRM aim to align with the organization’s long-term goals?",
+    "options": [
+      "Financial resources",
+      "Employee development and motivation",
+      "Technological innovation"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a characteristic of HRM?",
+    "options": [
+      "It is a one-time function",
+      "It is a continuous process",
+      "It focuses only on managing senior management"
+    ],
+    "answer": "b"
+  }
+]

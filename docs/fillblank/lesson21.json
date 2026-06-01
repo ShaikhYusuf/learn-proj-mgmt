@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "question": "Decision making is a fundamental process within any organization, as it drives the actions that lead to achieving ________, addressing challenges, and responding to changing environments.",
+    "answer": "objectives"
+  },
+  {
+    "id": 2,
+    "question": "The decision-making process begins when a problem or an ________ is identified.",
+    "answer": "opportunity"
+  },
+  {
+    "id": 3,
+    "question": "Top managers in an organization typically make ________ decisions, such as entering a new market, which involve a long-term vision.",
+    "answer": "strategic"
+  },
+  {
+    "id": 4,
+    "question": "Decisions can be categorized based on their characteristics, importance, and ________.",
+    "answer": "scope"
+  },
+  {
+    "id": 5,
+    "question": "Non-programmed decisions are made in ________ situations where no standard solution exists.",
+    "answer": "unstructured"
+  },
+  {
+    "id": 6,
+    "question": "Policy decisions are made by ________ managers and have a long-term impact on the organization's direction.",
+    "answer": "top-level"
+  },
+  {
+    "id": 7,
+    "question": "Routine decisions are typically made by ________ managers and focus on short-term, routine tasks.",
+    "answer": "middle or lower-level"
+  },
+  {
+    "id": 8,
+    "question": "Opportunity decisions are made when an opportunity arises that can contribute to the ________ of the organization.",
+    "answer": "growth or improvement"
+  },
+  {
+    "id": 9,
+    "question": "Strategic decisions often involve large investments and affect the overall ________ and vision of the organization.",
+    "answer": "mission"
+  },
+  {
+    "id": 10,
+    "question": "Research-based decisions are made after gathering and analyzing ________, evidence, and research.",
+    "answer": "data"
+  },
+  {
+    "id": 11,
+    "question": "Interactive decisions involve ________ consultations and discussions with others before making the final choice.",
+    "answer": "collaborative"
+  },
+  {
+    "id": 12,
+    "question": "Group decisions are made ________ by a group of people, often involving more discussion and differing viewpoints.",
+    "answer": "collectively"
+  },
+  {
+    "id": 13,
+    "question": "Major decisions are typically made by ________ management and involve careful planning and risk analysis.",
+    "answer": "top"
+  },
+  {
+    "id": 14,
+    "question": "Minor decisions are made by ________ managers and often involve fewer risks or long-term consequences.",
+    "answer": "lower-level"
+  },
+  {
+    "id": 15,
+    "question": "The first step in the decision-making process is to clearly define the ________ or opportunity.",
+    "answer": "problem"
+  },
+  {
+    "id": 16,
+    "question": "Once the problem or opportunity is clearly defined, the next step is to gather all ________ information.",
+    "answer": "relevant"
+  },
+  {
+    "id": 17,
+    "question": "After generating a list of alternatives, it is important to assess each option based on its ________ and drawbacks.",
+    "answer": "merits"
+  },
+  {
+    "id": 18,
+    "question": "The decision matrix is a tool that allows you to compare alternatives by assigning ________ based on selected criteria.",
+    "answer": "scores"
+  }
+]

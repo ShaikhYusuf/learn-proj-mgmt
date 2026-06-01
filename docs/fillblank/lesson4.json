@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "The concept of management originated in the **industrial** sector, where its primary focus was on profit-making and efficient use of resources.",
+      "answer": "industrial"
+    },
+    {
+      "id": 2,
+      "question": "Early industrial management emphasized **production** processes, efficiency, and output, which were tangible and measurable.",
+      "answer": "production"
+    },
+    {
+      "id": 3,
+      "question": "In education, the product is the **student**, which is intangible and involves the development of cognitive, emotional, and social skills.",
+      "answer": "student"
+    },
+    {
+      "id": 4,
+      "question": "In industry, major inputs include **capital**, machinery, raw materials, labor, and infrastructure.",
+      "answer": "capital"
+    },
+    {
+      "id": 5,
+      "question": "The primary process in industry involves transforming **raw materials** into finished goods through a series of well-defined steps.",
+      "answer": "raw materials"
+    },
+    {
+      "id": 6,
+      "question": "In education, **instruction** is centered around teaching and learning, involving interpersonal interactions between students and teachers.",
+      "answer": "instruction"
+    },
+    {
+      "id": 7,
+      "question": "In the industrial sector, output is typically measured in terms of **quantity** and quality.",
+      "answer": "quantity"
+    },
+    {
+      "id": 8,
+      "question": "The output in education includes not only **grades** but also personal development, social contribution, and long-term societal impact.",
+      "answer": "grades"
+    },
+    {
+      "id": 9,
+      "question": "**Manufacturing** processes in industry are mechanical, systematic, and predictable, whereas educational processes are human-centered, dynamic, and complex.",
+      "answer": "Manufacturing"
+    },
+    {
+      "id": 10,
+      "question": "The inputs in education include **human resources**, teachers, administrators, and learning materials, among other resources.",
+      "answer": "human resources"
+    }
+  ]
+  

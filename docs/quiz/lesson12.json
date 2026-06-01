@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the first step in the process of organizing?",
+    "options": [
+      "Departmentalization",
+      "Identification and Division of Work",
+      "Establishing Reporting Relationships",
+      "Delegation of Authority"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a key purpose of departmentalization?",
+    "options": [
+      "To establish clear reporting relationships",
+      "To group related tasks into functional units",
+      "To assign specific duties to employees",
+      "To divide work into manageable tasks"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "In the process of organizing, which step is focused on empowering employees by giving them decision-making authority?",
+    "options": [
+      "Identification and Division of Work",
+      "Delegation of Authority",
+      "Departmentalization",
+      "Establishing Reporting Relationships"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Which feature of a good organizational structure ensures that employees know exactly who they report to?",
+    "options": [
+      "Unity of Direction",
+      "Span of Control",
+      "Clear Line of Authority",
+      "Delegation of Authority"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 5,
+    "question": "What is the purpose of establishing reporting relationships within an organization?",
+    "options": [
+      "To delegate authority to managers",
+      "To clarify communication and decision-making hierarchies",
+      "To group related tasks into departments",
+      "To assign specific duties to employees"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a key benefit of having a minimum number of managerial levels in an organization?",
+    "options": [
+      "Increased specialization",
+      "Faster communication and decision-making",
+      "More layers of authority",
+      "Better delegation of tasks"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "What feature of an organizational structure ensures that activities align with overall organizational goals?",
+    "options": [
+      "Unity of Direction",
+      "Flexibility",
+      "Span of Control",
+      "Clear Line of Authority"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 8,
+    "question": "Which feature of a good organizational structure involves the delegation of responsibilities with decision-making power to employees?",
+    "options": [
+      "Span of Control",
+      "Adequate Delegation of Authority",
+      "Unity of Direction",
+      "Provision for Top Management"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "What is the term used to describe the number of subordinates a manager can effectively supervise?",
+    "options": [
+      "Unity of Direction",
+      "Span of Control",
+      "Delegation of Authority",
+      "Clear Line of Authority"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Which feature of a good organizational structure allows it to respond effectively to new challenges?",
+    "options": [
+      "Flexibility",
+      "Simplicity",
+      "Adequate Delegation of Authority",
+      "Clear Line of Authority"
+    ],
+    "answer": "a"
+  }
+]

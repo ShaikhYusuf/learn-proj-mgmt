@@ -1,0 +1,52 @@
+[
+  {
+      "id": 1,
+      "question": "In society, different kinds of institutions are created to meet the needs of the people, such as _______, ________, ________, and more.",
+      "answer": ["schools", "hospitals", "government offices"]
+  },
+  {
+      "id": 2,
+      "question": "_______ plays a key role in ensuring that a school fulfills its mission of providing quality education.",
+      "answer": "Management"
+  },
+  {
+      "id": 3,
+      "question": "To manage an institution means to plan, organize, _______, _______, and control resources.",
+      "answer": ["direct", "delegate"]
+  },
+  {
+      "id": 4,
+      "question": "_______ refers to the people who are in charge of an organization, such as principals and department heads.",
+      "answer": "Management as a noun"
+  },
+  {
+      "id": 5,
+      "question": "When we talk about management as a process, it includes key functions like _______, _______, _______, _______, and controlling.",
+      "answer": ["planning", "organizing", "staffing", "delegating"]
+  },
+  {
+      "id": 6,
+      "question": "_______ involves learning theories, concepts, principles, and procedures that help people become good managers.",
+      "answer": "Management as a discipline"
+  },
+  {
+      "id": 7,
+      "question": "In education management, one of the key aspects is to ensure that the resources, like _______, _______, _______, and ________, are effectively organized.",
+      "answer": ["teachers", "classrooms", "textbooks", "technology"]
+  },
+  {
+      "id": 8,
+      "question": "_______ refers to overseeing and guiding the various activities of an educational institution to ensure it runs smoothly and achieves its goals.",
+      "answer": "Management of education"
+  },
+  {
+      "id": 9,
+      "question": "The goal of education management is to effectively and efficiently accomplish the functions of the institution, such as _______, _______, _______, and ________.",
+      "answer": ["teaching", "learning", "research", "extension work"]
+  },
+  {
+      "id": 10,
+      "question": "________ refers to education that goes beyond the classroom, such as community outreach and connecting with local businesses.",
+      "answer": "Extension work"
+  }
+]

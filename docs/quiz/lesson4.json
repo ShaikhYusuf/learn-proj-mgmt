@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What was the primary focus of management in the industrial sector in its early roots?",
+    "options": [
+      "Human development",
+      "Profit-making and efficient use of resources",
+      "Academic success",
+      "Social development"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "What major shift occurred in the concept of management when it entered the educational sector?",
+    "options": [
+      "Focus on human capital rather than material goods",
+      "Increased focus on machinery and production",
+      "Focus on material output over human growth",
+      "Standardization of products and services"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is considered the 'product' in education management?",
+    "options": [
+      "Books",
+      "Students",
+      "Machines",
+      "Raw materials"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a key difference between education management and industry management?",
+    "options": [
+      "Focus on human resources",
+      "Focus on machinery",
+      "Standardized output",
+      "Linear production processes"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 5,
+    "question": "In the context of education management, what is considered the most important input?",
+    "options": [
+      "Technology",
+      "Infrastructure",
+      "Teachers and students",
+      "Textbooks"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 6,
+    "question": "Which aspect of education management requires more flexibility compared to industrial management?",
+    "options": [
+      "Resource allocation",
+      "Output measurement",
+      "Employee management",
+      "Standardization of processes"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following best describes the output of education management?",
+    "options": [
+      "Tangible products",
+      "Increased capital",
+      "Students' academic and personal growth",
+      "Machinery and equipment"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 8,
+    "question": "Which management principle is most relevant to both educational institutions and industrial organizations?",
+    "options": [
+      "Focus on human resources",
+      "Maximization of profit",
+      "Efficient use of machinery",
+      "Standardization of educational programs"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 9,
+    "question": "Which is a major challenge faced by education management compared to industry management?",
+    "options": [
+      "Standardizing product output",
+      "Managing diverse human resources",
+      "Efficient use of machines",
+      "Maximizing profits"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "What is the primary concern of educational management when it comes to resource utilization?",
+    "options": [
+      "Production efficiency",
+      "Profit maximization",
+      "Optimal use of human resources and infrastructure",
+      "Machine optimization"
+    ],
+    "answer": "c"
+  }
+]

@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the first key component of the delegation process?",
+    "options": [
+      "Providing clear instructions",
+      "Assigning tasks to subordinates",
+      "Transferring authority and accountability",
+      "Evaluating the performance of subordinates"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following best describes delegation?",
+    "options": [
+      "Only assigning tasks without authority",
+      "Transferring responsibility, authority, and accountability",
+      "Delegating only responsibility without authority",
+      "Providing feedback on subordinates' work"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "What distinguishes delegation from assigning work?",
+    "options": [
+      "Delegation involves empowerment and decision-making authority",
+      "Assigning work involves empowerment and decision-making authority",
+      "Delegation involves giving instructions only",
+      "There is no difference between delegation and assigning work"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a factor to consider when delegating work?",
+    "options": [
+      "The competency of the subordinate",
+      "The time available for the task",
+      "The complexity of the task",
+      "All of the above"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 5,
+    "question": "What is the primary purpose of delegation?",
+    "options": [
+      "To transfer full responsibility to subordinates",
+      "To empower subordinates and improve efficiency",
+      "To minimize the role of managers",
+      "To reduce workload for managers only"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "What element of delegation involves allowing a subordinate to make decisions within their responsibilities?",
+    "options": [
+      "Responsibility",
+      "Accountability",
+      "Authority",
+      "Communication"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is NOT a benefit of delegation?",
+    "options": [
+      "Develops leadership and competencies in subordinates",
+      "Increases manager's workload",
+      "Promotes autonomy and encourages innovation",
+      "Improves the overall functioning of the organization"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is an example of effective delegation?",
+    "options": [
+      "A manager assigns a task but does not provide resources or authority",
+      "A manager provides clear instructions, authority, and resources to a subordinate",
+      "A manager does everything themselves without involving subordinates",
+      "A manager assigns a task but does not check in on progress"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "What is one key characteristic of a manager's role in delegation?",
+    "options": [
+      "Managers should delegate everything to their subordinates",
+      "Managers retain accountability even when tasks are delegated",
+      "Managers should avoid giving subordinates authority",
+      "Managers should delegate all strategic decisions"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "How does delegation benefit the organization?",
+    "options": [
+      "It reduces the number of employees needed",
+      "It prevents burnout and encourages team performance",
+      "It reduces the need for manager involvement",
+      "It limits decision-making to senior leaders"
+    ],
+    "answer": "b"
+  }
+]

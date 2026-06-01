@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "question": "Stress often leads to poor ________, as individuals may struggle with logical thinking and rational choices.",
+    "answer": "decision-making"
+  },
+  {
+    "id": 2,
+    "question": "Chronic stress can cause physical health problems such as _______, ________, and gastrointestinal disorders.",
+    "answer": ["headaches", "heart diseases"]
+  },
+  {
+    "id": 3,
+    "question": "One effective way to manage stress at an individual level is through ________, which helps release endorphins.",
+    "answer": "exercise"
+  },
+  {
+    "id": 4,
+    "question": "________ techniques can help to counteract the effects of stress by promoting relaxation and reducing muscle tension.",
+    "answer": "Relaxation"
+  },
+  {
+    "id": 5,
+    "question": "Stress can often arise from setting unrealistic or overly ambitious ________.",
+    "answer": "goals"
+  },
+  {
+    "id": 6,
+    "question": "Social ________ plays a significant role in managing stress by providing emotional support and a sense of belonging.",
+    "answer": "support"
+  },
+  {
+    "id": 7,
+    "question": "Effective time management can help prevent tasks from piling up and reduce the pressure of ________ deadlines.",
+    "answer": "looming"
+  },
+  {
+    "id": 8,
+    "question": "________ exercises like yoga and tai chi combine breathing with physical movement to relax both the body and mind.",
+    "answer": "Mindful movement"
+  },
+  {
+    "id": 9,
+    "question": "Clarifying ________ is essential to reduce stress caused by ambiguity, conflict, or overload.",
+    "answer": "roles"
+  },
+  {
+    "id": 10,
+    "question": "One benefit of social support is that it provides a sense of ________, reducing feelings of isolation that often come with stress.",
+    "answer": "belonging"
+  }
+]

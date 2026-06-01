@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "question": "Conflict arises due to differences in _____ and _____ among individuals.",
+    "answer": ["values", "beliefs"]
+  },
+  {
+    "id": 2,
+    "question": "_____ is a common cause of conflict in organizations, especially when resources are scarce.",
+    "answer": ["Competition for resources"]
+  },
+  {
+    "id": 3,
+    "question": "_____ conflicts occur due to misunderstandings, personality clashes, or differing work styles between individuals.",
+    "answer": ["Interpersonal"]
+  },
+  {
+    "id": 4,
+    "question": "_____ conflict arises when different departments or levels of the organization have disagreements.",
+    "answer": ["Organizational"]
+  },
+  {
+    "id": 5,
+    "question": "_____ conflict occurs when people from different backgrounds or cultures have differing values or communication styles.",
+    "answer": ["Cultural"]
+  },
+  {
+    "id": 6,
+    "question": "_____ is one of the most common causes of conflict in organizations, where information is not shared effectively.",
+    "answer": ["Poor communication"]
+  },
+  {
+    "id": 7,
+    "question": "The collaborating conflict management style focuses on finding a _____ solution that satisfies everyone involved.",
+    "answer": ["mutually beneficial"]
+  },
+  {
+    "id": 8,
+    "question": "_____ strategy involves working together to find a win-win solution, fostering trust and creativity.",
+    "answer": ["Collaborating"]
+  },
+  {
+    "id": 9,
+    "question": "_____ strategy involves one party giving in to the other to keep the peace, often at the expense of their own needs.",
+    "answer": ["Accommodating"]
+  },
+  {
+    "id": 10,
+    "question": "_____ strategy involves sidestepping the conflict, either by ignoring it or withdrawing from the situation.",
+    "answer": ["Avoiding"]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "Stress arises from a variety of factors and situations that challenge an individual’s ability to cope. One major personal cause of stress is _______, which includes situations involving personal safety, health concerns, or financial insecurities.",
+    "answer": "Fear"
+  },
+  {
+    "id": 2,
+    "question": "Another personal cause of stress is ________, which refers to the lack of clarity or predictability about future events, leading to increased anxiety and stress.",
+    "answer": "Uncertainty"
+  },
+  {
+    "id": 3,
+    "question": "Major life changes or traumatic experiences, such as divorce or the death of a loved one, fall under ________ as a cause of stress.",
+    "answer": "Life Events and Traumas"
+  },
+  {
+    "id": 4,
+    "question": "Stress caused by insufficient sleep, which impairs cognitive function and increases irritability, is referred to as _______.",
+    "answer": "Sleep Deprivation"
+  },
+  {
+    "id": 5,
+    "question": "One of the environmental causes of stress is ________, such as living in unsafe neighborhoods or areas prone to natural disasters.",
+    "answer": "Physical Threats"
+  },
+  {
+    "id": 6,
+    "question": "Expectations from family, friends, or society to conform to certain norms or achieve specific goals can lead to ________, which is an environmental cause of stress.",
+    "answer": "Social Pressures"
+  },
+  {
+    "id": 7,
+    "question": "A lack of basic amenities, like ________, can create daily stress, making it an environmental cause of stress.",
+    "answer": "Inadequate Resources"
+  },
+  {
+    "id": 8,
+    "question": "One of the professional causes of stress is ________, which happens when unrealistic expectations are placed on an individual without adequate resources or support.",
+    "answer": "Unrealistic Expectations"
+  },
+  {
+    "id": 9,
+    "question": "Stress caused by the responsibilities or performance expectations tied to one’s job is referred to as _______.",
+    "answer": "Task Demands"
+  },
+  {
+    "id": 10,
+    "question": "Role ambiguity is a form of stress caused by ________, where unclear instructions or undefined responsibilities create confusion.",
+    "answer": "Role Ambiguity"
+  }
+]

@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "question": "Who first coined the term 'stress'?",
+    "answer": "Hans Selye"
+  },
+  {
+    "id": 2,
+    "question": "What is the natural response of the body to stimuli that could affect one's well-being or sense of security?",
+    "answer": "Stress"
+  },
+  {
+    "id": 3,
+    "question": "What are the three stages of the General Adaptation Syndrome (GAS) as described by Hans Selye?",
+    "answer": "Alarm, resistance, exhaustion"
+  },
+  {
+    "id": 4,
+    "question": "Which type of stress motivates individuals to complete tasks and improve productivity?",
+    "answer": "Eustress"
+  },
+  {
+    "id": 5,
+    "question": "What is the harmful form of stress that can lead to physical and mental exhaustion?",
+    "answer": "Distress"
+  },
+  {
+    "id": 6,
+    "question": "What does chronic stress, if left unmanaged, often lead to?",
+    "answer": "Heart disease, high blood pressure, depression, anxiety disorders"
+  },
+  {
+    "id": 7,
+    "question": "What is the body's natural reaction to a perceived threat, preparing the body for physical action?",
+    "answer": "Fight-or-flight response"
+  },
+  {
+    "id": 8,
+    "question": "What type of stress is associated with ongoing work pressure and relationship conflicts?",
+    "answer": "Chronic stress"
+  },
+  {
+    "id": 9,
+    "question": "What are some physical manifestations of stress?",
+    "answer": "Increased heart rate, muscle tension, headaches, digestive issues, changes in sleep patterns"
+  },
+  {
+    "id": 10,
+    "question": "Which psychologist defines stress as a feeling experienced when a person perceives that the demands placed upon them exceed their personal and social resources?",
+    "answer": "Richard S. Lazarus"
+  }
+]

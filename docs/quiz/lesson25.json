@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the key focus of Herzberg's Two-Factor Theory?",
+    "options": [
+      "Motivation and hygiene factors",
+      "Maslow's hierarchy of needs",
+      "Employee productivity only",
+      "Leadership theories"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a hygiene factor in Herzberg's theory?",
+    "options": [
+      "Recognition",
+      "Pay",
+      "Sense of achievement",
+      "Advancement opportunities"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "What is the primary effect of motivators in the workplace?",
+    "options": [
+      "Prevent dissatisfaction",
+      "Enhance job satisfaction and performance",
+      "Ensure job security",
+      "Increase job turnover"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is NOT considered a motivational factor?",
+    "options": [
+      "Recognition",
+      "Work itself",
+      "Job security",
+      "Advancement opportunities"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 5,
+    "question": "According to Herzberg, the opposite of job satisfaction is:",
+    "options": [
+      "No satisfaction",
+      "Dissatisfaction",
+      "Neutral satisfaction",
+      "Motivation"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 6,
+    "question": "Which of these strategies is most likely to improve job satisfaction in an educational setup?",
+    "options": [
+      "Provide high pay but no job security",
+      "Recognize and appreciate the efforts of teachers",
+      "Offer no opportunities for growth",
+      "Create rigid company policies"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Herzberg's Two-Factor Theory suggests that hygiene factors are:",
+    "options": [
+      "The primary drivers of job satisfaction",
+      "Extrinsic factors that prevent dissatisfaction",
+      "Intrinsic motivators for employee growth",
+      "Always directly linked to employee motivation"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is an example of a motivating factor according to Herzberg?",
+    "options": [
+      "Physical working conditions",
+      "Company policies",
+      "Sense of achievement",
+      "Job security"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 9,
+    "question": "What is the ideal scenario in Herzberg's Two-Factor Theory?",
+    "options": [
+      "High hygiene and low motivation",
+      "Low hygiene and high motivation",
+      "High hygiene and high motivation",
+      "Low hygiene and low motivation"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 10,
+    "question": "How can companies foster job satisfaction according to Herzberg’s theory?",
+    "options": [
+      "By only focusing on financial rewards",
+      "By providing meaningful work and responsibility",
+      "By offering job security with no opportunity for growth",
+      "By minimizing the recognition of achievements"
+    ],
+    "answer": "b"
+  }
+]

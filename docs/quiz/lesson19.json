@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the first step in the delegation process?",
+    "options": [
+      "Creating Accountability",
+      "Assignment of Tasks and Duties",
+      "Granting Authorities",
+      "Maintaining Balance Between Authority and Freedom"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a component of delegation?",
+    "options": [
+      "Providing the Right to Act",
+      "Granting Authorities",
+      "Increasing Managerial Workload",
+      "Creating Accountability"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "What does effective delegation help to improve?",
+    "options": [
+      "Time Management",
+      "Employee Skill Development",
+      "Decision-Making",
+      "All of the above"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 4,
+    "question": "What is the key principle of effective delegation that ensures subordinates only receive instructions from one authority?",
+    "options": [
+      "Unity of Command",
+      "Focus on Organizational Objectives",
+      "Offer Support to Subordinates",
+      "Maintain Parity Between Responsibility and Authority"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 5,
+    "question": "What is a benefit of delegation that helps reduce managerial workload?",
+    "options": [
+      "Better Decision-Making",
+      "Improved Time Management",
+      "Promotes Organizational Growth",
+      "Encourages Innovation"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "What is an example of how delegation fosters trust and morale?",
+    "options": [
+      "A manager takes full control of a project",
+      "A manager assigns all tasks to a single subordinate",
+      "A manager empowers employees to make decisions",
+      "A manager avoids communicating expectations"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 7,
+    "question": "What is the relationship between authority and responsibility in delegation?",
+    "options": [
+      "Authority is granted without responsibility",
+      "Responsibility is given without authority",
+      "Authority and responsibility must be balanced",
+      "Authority exceeds responsibility"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 8,
+    "question": "How does delegation benefit employee skill development?",
+    "options": [
+      "By increasing workload without guidance",
+      "By assigning tasks outside employees' expertise",
+      "By providing employees with opportunities to take responsibility",
+      "By minimizing employee involvement"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 9,
+    "question": "What is a critical barrier to effective delegation?",
+    "options": [
+      "Trust in subordinates",
+      "Clear definition of roles",
+      "Fear of losing control",
+      "Empowerment of employees"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following ensures successful delegation of tasks?",
+    "options": [
+      "Assigning tasks without clear instructions",
+      "Providing regular feedback and support",
+      "Allowing employees to operate independently without check-ins",
+      "Retaining all decision-making authority at the managerial level"
+    ],
+    "answer": "b"
+  }
+]

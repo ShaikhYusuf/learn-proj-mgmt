@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "Which of the following needs is associated with the desire to meet and exceed personal goals?",
+    "options": [
+      "Need for Affiliation",
+      "Need for Power",
+      "Need for Achievement",
+      "Need for Recognition"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 2,
+    "question": "Which type of need is driven by the desire to influence others and take charge of situations?",
+    "options": [
+      "Need for Achievement",
+      "Need for Affiliation",
+      "Need for Power",
+      "Need for Control"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "McClelland’s theory suggests that these needs are:",
+    "options": [
+      "Inherent from birth",
+      "Learned over time",
+      "Biologically determined",
+      "Instinctual"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "People with a high need for affiliation are likely to:",
+    "options": [
+      "Enjoy taking control of situations",
+      "Prefer to work alone",
+      "Focus on building relationships and teamwork",
+      "Avoid forming close relationships"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following describes individuals with a high need for achievement?",
+    "options": [
+      "They avoid tasks that involve risk",
+      "They seek tasks with moderate risk and clear feedback",
+      "They prefer tasks with high risk and little control",
+      "They avoid feedback and personal goals"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "What is the primary characteristic of people with a high need for power?",
+    "options": [
+      "They focus on group harmony and cooperation",
+      "They seek to influence or control others",
+      "They avoid leadership roles",
+      "They prefer to work independently without influence"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "People motivated by the need for affiliation are most likely to:",
+    "options": [
+      "Thrive in competitive environments",
+      "Desire social approval and positive relationships",
+      "Prefer to lead teams and control decisions",
+      "Focus primarily on personal achievement"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Which type of power does a person motivated by the desire to influence others for the benefit of the organization demonstrate?",
+    "options": [
+      "Personal Power",
+      "Institutional Power",
+      "Social Power",
+      "Team Power"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "According to McClelland, the need for achievement, power, and affiliation are:",
+    "options": [
+      "Fixed and permanent",
+      "Learned and evolve over time",
+      "Inherited genetically",
+      "Infrequently experienced"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "What motivates people with a high need for achievement?",
+    "options": [
+      "Achieving a sense of control over others",
+      "Building close interpersonal relationships",
+      "Exceeding personal performance goals",
+      "Avoiding tasks that may result in failure"
+    ],
+    "answer": "c"
+  }
+]

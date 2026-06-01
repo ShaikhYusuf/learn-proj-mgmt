@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary purpose of organizing in management?",
+    "options": [
+      "To create chaos in the institution",
+      "To coordinate tasks and resources to achieve organizational objectives",
+      "To establish confusion among team members",
+      "To eliminate roles and responsibilities"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a key aspect of the organizing process?",
+    "options": [
+      "Identifying activities and work",
+      "Defining responsibilities",
+      "Establishing authority relationships",
+      "Eliminating coordination between departments"
+    ],
+    "answer": "d"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is an example of a curricular activity in a school?",
+    "options": [
+      "Sports events",
+      "Teaching and learning",
+      "Cultural programs",
+      "Examinations"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "What is the role of authority in an organization?",
+    "options": [
+      "To prevent coordination between teams",
+      "To ensure clear roles and responsibilities are defined",
+      "To promote individualism and independence",
+      "To restrict delegation of tasks"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Why is coordination important in the organizing process?",
+    "options": [
+      "To ensure that resources are misused",
+      "To make sure activities align with organizational goals",
+      "To create conflicts between departments",
+      "To avoid clear communication within the organization"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "What does delegation involve in an organization?",
+    "options": [
+      "Assigning tasks without authority",
+      "Delegating responsibility without assigning any authority",
+      "Assigning tasks along with the authority to make decisions",
+      "Avoiding the assignment of tasks"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following defines the relationship between different levels of authority in an organization?",
+    "options": [
+      "Horizontal relationships",
+      "Vertical relationships",
+      "Independent relationships",
+      "Casual relationships"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "What is one of the key reasons for establishing structural relationships in an organization?",
+    "options": [
+      "To prevent interaction between departments",
+      "To promote smooth interaction and collaboration",
+      "To eliminate reporting mechanisms",
+      "To assign more tasks to subordinates"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is a necessary aspect of organizing for smooth functioning?",
+    "options": [
+      "Providing limited resources",
+      "Ensuring employees have access to the necessary facilities and equipment",
+      "Restricting communication among departments",
+      "Preventing delegation of authority"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "In the organizing process, what must happen after identifying activities?",
+    "options": [
+      "Activities must be avoided",
+      "Activities must be assigned to the appropriate departments or individuals",
+      "Activities should be eliminated from the organization",
+      "Activities should be outsourced immediately"
+    ],
+    "answer": "b"
+  }
+]

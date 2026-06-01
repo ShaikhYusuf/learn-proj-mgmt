@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary difference between a manager and a leader?",
+    "options": [
+      "Managers focus on vision, while leaders focus on stability.",
+      "Managers focus on control and efficiency, while leaders focus on vision, change, and inspiration.",
+      "Leaders focus on monitoring activities, while managers focus on inspiring others.",
+      "Leaders and managers perform exactly the same roles."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a key implication of leadership?",
+    "options": [
+      "Leadership involves people.",
+      "Leaders have no power over followers.",
+      "Influence is central to leadership.",
+      "Leadership is value-driven."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "The Great Man Theory of Leadership suggests that leaders are:",
+    "options": [
+      "Made through education and experience.",
+      "Born with specific qualities like charisma and intelligence.",
+      "Effective only during crises.",
+      "Developed over time through trial and error."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following best describes charismatic leadership?",
+    "options": [
+      "Leaders influence through power and control.",
+      "Leaders motivate through personality and vision.",
+      "Leaders focus on following rules and regulations.",
+      "Leaders encourage followers to work independently."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "What is the primary focus of Trait Theory in leadership?",
+    "options": [
+      "Leaders can be made through behavioral changes.",
+      "Leaders possess innate traits that make them effective.",
+      "Leaders must adapt their behaviors to different situations.",
+      "Leaders can influence others by focusing on situational factors."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "According to the Behavioral Theory of Leadership, what is a critical leadership behavior?",
+    "options": [
+      "Visionary thinking and strategic planning.",
+      "Initiating structure (task-oriented behavior).",
+      "Exclusively focusing on maintaining power.",
+      "Strictly following rules and procedures."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Which leadership style involves team participation and collaboration?",
+    "options": [
+      "Autocratic",
+      "Democratic",
+      "Laissez-faire",
+      "Directive"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "What does the Path-Goal Theory emphasize in leadership?",
+    "options": [
+      "The leader’s ability to control every aspect of the task.",
+      "The leader’s role in clearing obstacles and motivating followers to achieve goals.",
+      "The leader’s focus on their own success.",
+      "The leader’s need to avoid conflicts with followers."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "What does the term ‘employee-centered’ refer to in leadership?",
+    "options": [
+      "Focusing on task completion at all costs.",
+      "Focusing on the needs and well-being of the employees.",
+      "Focusing on strict control over the work environment.",
+      "Focusing on maintaining the status quo."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following leadership theories is based on the idea that leaders can be made through learning specific behaviors?",
+    "options": [
+      "Great Man Theory",
+      "Trait Theory",
+      "Behavioral Theory",
+      "Contingency Theory"
+    ],
+    "answer": "c"
+  }
+]

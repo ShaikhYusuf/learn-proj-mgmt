@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the main purpose of the controlling function in management?",
+    "options": [
+      "To ensure that activities are performed according to plans.",
+      "To plan the future course of action.",
+      "To direct and motivate employees.",
+      "To minimize the organization's costs."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a characteristic of controlling?",
+    "options": [
+      "It is a forward-looking function.",
+      "It is a one-time activity.",
+      "It involves continuous monitoring.",
+      "It starts at top management."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "What is the primary focus of Feed Forward Control?",
+    "options": [
+      "Evaluating results after the task is completed.",
+      "Monitoring tasks in real-time.",
+      "Anticipating potential problems and preventing them.",
+      "Making adjustments based on past feedback."
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is an example of Concurrent Control?",
+    "options": [
+      "A supervisor monitoring assembly line workers.",
+      "Conducting market research before launching a product.",
+      "Analyzing customer feedback after a product launch.",
+      "Providing induction training to new employees."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 5,
+    "question": "Feedback control is applied in which of the following scenarios?",
+    "options": [
+      "Monitoring raw material quality before production.",
+      "Adjusting the timeline for a project in progress.",
+      "Reviewing annual financial reports to refine budgeting.",
+      "Supervising employees during a task to ensure compliance."
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is NOT an example of a forward-looking control?",
+    "options": [
+      "Designing a curriculum aligned with educational goals.",
+      "Evaluating customer satisfaction after a product launch.",
+      "Conducting quality checks on raw materials before production.",
+      "Introducing training programs to prevent future errors."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following best defines concurrent control?",
+    "options": [
+      "It focuses on correcting issues after the task is completed.",
+      "It is applied during the execution of tasks to ensure standards are followed.",
+      "It anticipates and prevents potential deviations before they occur.",
+      "It is the process of analyzing past performance to make future decisions."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is an example of the top-down nature of the controlling function?",
+    "options": [
+      "A CEO setting quarterly financial targets for the organization.",
+      "A principal reviewing lesson plans for teachers.",
+      "A teacher analyzing student examination results.",
+      "A factory supervisor monitoring the quality of products during production."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is a potential challenge in the controlling process?",
+    "options": [
+      "Lack of communication and over-control.",
+      "Excessive feedback and low employee involvement.",
+      "Clear objectives and accurate data collection.",
+      "Effective planning and training of employees."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is an example of feedback control in an educational institution?",
+    "options": [
+      "Providing workshops to teachers based on curriculum goals.",
+      "Collecting student assessment results to adjust teaching strategies.",
+      "Monitoring classroom behavior during school events.",
+      "Aligning teaching methods with the institution's vision."
+    ],
+    "answer": "b"
+  }
+]

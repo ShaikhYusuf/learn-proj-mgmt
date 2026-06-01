@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "question": "What is the main idea behind the Contingency Theory of Leadership?",
+    "options": [
+      "Leadership effectiveness depends on a universal leadership style.",
+      "Leadership effectiveness depends on the alignment between the leader’s style and the situation’s characteristics.",
+      "Leadership effectiveness is solely based on the leader’s personality."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT one of the key principles of Contingency Theory?",
+    "options": [
+      "Leadership is contextual.",
+      "Leadership styles are stable.",
+      "Leadership is dependent on a fixed universal approach."
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "In Fiedler's Contingency Model, which variable refers to the trust and respect between the leader and team members?",
+    "options": [
+      "Leader-member relations.",
+      "Task structure.",
+      "Leader’s position power."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 4,
+    "question": "According to Fiedler, what is the characteristic of a task-oriented leader?",
+    "options": [
+      "Focuses on building strong interpersonal relationships.",
+      "Focuses on achieving specific objectives and completing tasks efficiently.",
+      "Focuses on long-term team engagement and collaboration."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "What does the Least Preferred Co-Worker (LPC) scale measure in Fiedler’s Contingency Model?",
+    "options": [
+      "The leader's ability to adapt to different leadership styles.",
+      "The leader’s natural tendency towards task-oriented or relationship-oriented leadership.",
+      "The degree to which a leader trusts their followers."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Which leadership style is best suited for situations with high task structure and strong position power?",
+    "options": [
+      "Task-oriented leadership.",
+      "Relationship-oriented leadership.",
+      "Situational leadership."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "In which scenario is a relationship-oriented leadership style most effective?",
+    "options": [
+      "When tasks are clearly defined and deadlines are strict.",
+      "When there is a need for strong interpersonal relationships and team collaboration.",
+      "When the leader has complete control over all aspects of task execution."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is a challenge of the Contingency Theory?",
+    "options": [
+      "It assumes that leadership style is flexible and adaptable to all situations.",
+      "It requires accurate assessment of situational factors, which can be difficult.",
+      "It neglects the influence of external factors on leadership effectiveness."
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "What does the concept of 'situational favorableness' depend on?",
+    "options": [
+      "The relationship between leader and followers, task structure, and leader’s position power.",
+      "The leader’s personality traits and style.",
+      "The leader’s ability to work in any given environment."
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "In a crisis management scenario, which type of leader is most effective when managing logistics and resource allocation?",
+    "options": [
+      "Relationship-oriented leader.",
+      "Task-oriented leader.",
+      "Both are equally effective."
+    ],
+    "answer": "b"
+  }
+]

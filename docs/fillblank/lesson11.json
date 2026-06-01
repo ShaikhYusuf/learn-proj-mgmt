@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "question": "Organizing is a fundamental function of management that involves arranging and coordinating ____________, ____________, and ____________ to achieve the organization's goals.",
+    "answer": "resources, tasks, activities"
+  },
+  {
+    "id": 2,
+    "question": "In an educational institution, organizing helps ensure that all necessary functions, such as ____________, ____________, ____________, and ____________, are carried out seamlessly.",
+    "answer": "teaching, administration, evaluation, student welfare"
+  },
+  {
+    "id": 3,
+    "question": "The process of dividing work into smaller, manageable parts in organizing is known as ____________.",
+    "answer": "division of work"
+  },
+  {
+    "id": 4,
+    "question": "__________ refers to the process of grouping similar activities or tasks under one department or division.",
+    "answer": "Departmentalization"
+  },
+  {
+    "id": 5,
+    "question": "There are different ways to departmentalize an organization, such as functional departmentalization, ____________, and ____________.",
+    "answer": "geographical, matrix"
+  },
+  {
+    "id": 6,
+    "question": "In an educational institution, examples of departmentalization include grouping teaching activities into departments like ____________, ____________, and ____________.",
+    "answer": "Mathematics, Science, Languages"
+  },
+  {
+    "id": 7,
+    "question": "__________ is the step in organizing where specific tasks are assigned to individuals or groups within departments.",
+    "answer": "Assignment of Duties"
+  },
+  {
+    "id": 8,
+    "question": "In a school, ____________ would be at the top of the hierarchy, followed by vice principals, department heads, teachers, and administrative staff.",
+    "answer": "principal"
+  },
+  {
+    "id": 9,
+    "question": "Establishing reporting relationships in an organization helps create a ____________ of authority and ensures accountability.",
+    "answer": "chain"
+  },
+  {
+    "id": 10,
+    "question": "The organizing process ensures efficient use of ____________ by dividing work, assigning tasks, and coordinating efforts.",
+    "answer": "resources"
+  }
+]

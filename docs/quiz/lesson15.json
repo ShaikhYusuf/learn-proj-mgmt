@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary focus of Staffing II?",
+    "options": [
+      "Immediate staffing needs",
+      "Long-term manpower planning and development",
+      "Recruitment and selection only",
+      "Short-term job-specific training"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "What is the first step in long-term manpower planning?",
+    "options": [
+      "Recruitment",
+      "Manpower Inventory and Analysis",
+      "Manpower Development",
+      "Projecting the Organizational Structure"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is a benefit of training?",
+    "options": [
+      "Increased employee turnover",
+      "Reduced job satisfaction",
+      "Improved productivity",
+      "Increased supervision"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is an example of off-the-job training?",
+    "options": [
+      "Job rotation",
+      "Coaching",
+      "Seminars and workshops",
+      "Understudy"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 5,
+    "question": "What is the primary objective of development in staffing?",
+    "options": [
+      "To improve immediate job performance",
+      "To prepare employees for future roles",
+      "To reduce training costs",
+      "To fill vacant positions"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "How does training contribute to organizational flexibility?",
+    "options": [
+      "It reduces the number of employees",
+      "It makes employees adaptable to new challenges",
+      "It prevents employee turnover",
+      "It requires employees to work longer hours"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "What is the difference between training and development?",
+    "options": [
+      "Training is short-term, while development is long-term",
+      "Training is focused on leadership, while development is focused on skills",
+      "Training is for new employees, while development is for experienced ones",
+      "There is no difference between the two"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 8,
+    "question": "Why is continuous development important in Staffing II?",
+    "options": [
+      "It only helps with immediate staffing needs",
+      "It ensures employees can adapt to new trends and technologies",
+      "It reduces the number of employees required",
+      "It focuses solely on job-specific tasks"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is an objective of training?",
+    "options": [
+      "To enhance employees' potential for future roles",
+      "To improve job performance in the current role",
+      "To prepare employees for leadership positions",
+      "To promote organizational flexibility"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is NOT a method of on-the-job training?",
+    "options": [
+      "Coaching",
+      "Job rotation",
+      "Special courses",
+      "Understudy"
+    ],
+    "answer": "c"
+  }
+]

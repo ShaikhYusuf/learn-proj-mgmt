@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the primary purpose of performance appraisal?",
+    "options": [
+      "To determine compensation packages",
+      "To assess the overall job satisfaction of employees",
+      "To evaluate the employee's performance and identify areas for improvement",
+      "To provide employees with feedback on their appearance"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a challenge of performance appraisal?",
+    "options": [
+      "Bias in evaluation",
+      "Lack of clear criteria",
+      "Providing regular feedback",
+      "Employee resistance"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "question": "Which key concept defines performance appraisal as a continuous process?",
+    "options": [
+      "Performance as an outcome",
+      "Goal-oriented",
+      "Continuous process",
+      "Performance feedback"
+    ],
+    "answer": "c"
+  },
+  {
+    "id": 4,
+    "question": "What does performance appraisal help to align in an organization?",
+    "options": [
+      "Employee benefits with company policy",
+      "Employee goals with organizational objectives",
+      "Employee’s strengths with job roles",
+      "Employee’s appearance with job requirements"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "Who defined performance appraisal as 'the systematic, periodic, and impartial rating of an employee’s excellence in matters pertaining to his present job and his potentialities for a better job'?",
+    "options": [
+      "Carl Heyel",
+      "Edwin Flippo",
+      "Porter & Lawler",
+      "Shreevastava"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a primary objective of performance appraisal?",
+    "options": [
+      "To recruit new employees",
+      "To determine reimbursement packages",
+      "To assess the training programs",
+      "To assess the company's financial performance"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 7,
+    "question": "What is one of the key challenges in the performance appraisal process?",
+    "options": [
+      "Employee recognition",
+      "Bias and favoritism",
+      "Employee self-assessment",
+      "Immediate feedback"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is an example of how performance appraisal provides feedback?",
+    "options": [
+      "Providing a salary increase to the employee",
+      "Offering constructive criticism to improve performance",
+      "Assigning the employee a new role",
+      "Firing an underperforming employee"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": 9,
+    "question": "How can performance appraisal help identify latent talents in employees?",
+    "options": [
+      "By evaluating their existing job performance",
+      "By providing financial rewards",
+      "By offering training programs",
+      "By assessing their outside interests"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 10,
+    "question": "What is a common mistake in the performance appraisal process, as seen in the case study of Mrs. Shreevastava?",
+    "options": [
+      "Incorporating multiple raters in the feedback process",
+      "Focusing on an employee’s overall performance",
+      "Allowing personal biases to influence appraisals",
+      "Providing detailed feedback to employees"
+    ],
+    "answer ": "c"
+  }
+]

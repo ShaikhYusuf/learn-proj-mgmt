@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "question": "Organization is essential in any institution because it helps in the coordination of _____, tasks, and people to achieve common objectives.",
+    "answer": "resources"
+  },
+  {
+    "id": 2,
+    "question": "The first step in the process of organizing is to identify and group _____ to ensure every function is covered.",
+    "answer": "activities"
+  },
+  {
+    "id": 3,
+    "question": "After identifying the activities, it is crucial to assign them to specific _____ or individuals within the organization.",
+    "answer": "departments"
+  },
+  {
+    "id": 4,
+    "question": "Defining _____ helps avoid confusion and ensures that each person knows what is expected of them.",
+    "answer": "responsibilities"
+  },
+  {
+    "id": 5,
+    "question": "Authority and responsibility go hand in hand. When a task is assigned, the individual must also be given the necessary _____ to perform that task.",
+    "answer": "authority"
+  },
+  {
+    "id": 6,
+    "question": "Coordination ensures that different departments and individuals work together effectively to meet the organization’s _____.",
+    "answer": "objectives"
+  },
+  {
+    "id": 7,
+    "question": "In an organization, structural relationships can be _____, meaning they occur between individuals or departments at the same level, or _____, which involves different hierarchical levels.",
+    "answer": "horizontal, vertical"
+  },
+  {
+    "id": 8,
+    "question": "The provision of necessary _____, such as office space, technology, and teaching aids, is crucial for effective task performance in organizations.",
+    "answer": "facilities"
+  },
+  {
+    "id": 9,
+    "question": "In a school setting, teachers and administrators must work together in coordination to ensure that the _____ is followed and resources are utilized effectively.",
+    "answer": "curriculum"
+  },
+  {
+    "id": 10,
+    "question": "A well-organized system in an institution helps to prevent _____ by clearly defining roles, responsibilities, and authority among members.",
+    "answer": "chaos"
+  }
+]
