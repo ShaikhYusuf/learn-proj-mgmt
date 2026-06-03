@@ -1,4 +1,4 @@
-import { CommonModule, NgFor, NgIf } from '@angular/common';
+import { CommonModule } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 import { Component } from '@angular/core';
 import { MatCardModule } from '@angular/material/card';
@@ -8,7 +8,7 @@ import { FormsModule } from '@angular/forms'; // Import FormsModule
 @Component({
   selector: 'app-fill-blank',
   standalone: true,
-  imports: [CommonModule, MatCardModule, NgIf, NgFor, FormsModule], // Add FormsModule here
+  imports: [CommonModule, MatCardModule, FormsModule], // Add FormsModule here
   templateUrl: './fill-blank.component.html',
   styleUrls: ['./fill-blank.component.css'], // Corrected property name
 })

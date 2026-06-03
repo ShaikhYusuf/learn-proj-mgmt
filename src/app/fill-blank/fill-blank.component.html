@@ -1,21 +1,21 @@
 <div class="container">
-  <mat-card *ngFor="let eachQuestion of questions" class="question-card">
-    <p>
-      <ng-container *ngFor="let part of getParts(eachQuestion.question); let i = index">
-        <ng-container *ngIf="!part.includes('_')">
-          <span>{{ part }}</span>
-        </ng-container>
-
-        <ng-container *ngIf="part.includes('_')">
-          <input type="text" [(ngModel)]="selectedAnswer[eachQuestion.id]"
+  @for (eachQuestion of questions; track eachQuestion) {
+    <mat-card class="question-card">
+      <p>
+        @for (part of getParts(eachQuestion.question); track part; let i = $index) {
+          @if (!part.includes('_')) {
+            <span>{{ part }}</span>
+          }
+          @if (part.includes('_')) {
+            <input type="text" [(ngModel)]="selectedAnswer[eachQuestion.id]"
             [style.width]="(eachQuestion.answer.length * 1.2) + 'ch'" [ngClass]="{
                   'correct': eachQuestion['isCorrect'] === true,
                   'incorrect': eachQuestion['isCorrect'] === false
                 }" />
-        </ng-container>
-
-      </ng-container>
-    </p>
-  </mat-card>
+          }
+        }
+      </p>
+    </mat-card>
+  }
   <button mat-raised-button color="primary" (click)="onSubmit()">Submit</button>
 </div>
