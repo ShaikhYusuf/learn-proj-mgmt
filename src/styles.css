@@ -225,6 +225,7 @@ html, body {
   font-size: 20px;
   width: 20px;
   height: 20px;
+  flex-shrink: 0;
   color: var(--color-secondary);
   transition: color var(--transition-speed);
 }
@@ -280,6 +281,7 @@ html, body {
   font-size: 18px;
   width: 18px;
   height: 18px;
+  flex-shrink: 0;
 }
 
 .submenu-link:hover, .submenu-link.active {
@@ -318,6 +320,9 @@ html, body {
   .app-sidebar.sidebar-open {
     transform: translateX(0);
   }
+  .app-content {
+    padding: 1.5rem;
+  }
 }
 
 @media (max-width: 576px) {
@@ -326,6 +331,15 @@ html, body {
   }
   .app-title {
     font-size: 1.1rem;
+  }
+  .app-header {
+    padding: 0 1rem;
+  }
+  .app-content {
+    padding: 1rem;
+  }
+  .card {
+    padding: 1.25rem;
   }
 }
 
@@ -470,5 +484,31 @@ code {
 /* Hide TTS buttons globally */
 .speech-button-container {
   display: none !important;
+}
+
+/* Lesson Navigation Footer */
+.lesson-navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+  gap: 1rem;
+}
+
+.lesson-indicator {
+  font-weight: 600;
+  color: var(--color-secondary);
+  font-size: 0.95rem;
+}
+
+@media (max-width: 576px) {
+  .lesson-navigation {
+    flex-direction: column;
+    gap: 1rem;
+    align-items: stretch;
+    text-align: center;
+  }
 }
 

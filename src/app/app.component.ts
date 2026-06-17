@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
-import { Router, RouterModule, RouterOutlet } from '@angular/router';
+import { Router, RouterModule, RouterOutlet, NavigationEnd } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { QuizService } from './shared/quiz.service';
+import { filter } from 'rxjs/operators';
 
 @Component({
   selector: 'app-root',
@@ -61,7 +62,17 @@ export class AppComponent {
     { id: '40', name: 'Lesson 40: Performance Appraisal', url: 'les40', quiz: 'quiz/40', fillblank: 'fillblank/40' },
   ];
 
-  constructor(private router: Router, public quizService: QuizService) {}
+  constructor(private router: Router, public quizService: QuizService) {
+    this.router.events.pipe(
+      filter(event => event instanceof NavigationEnd)
+    ).subscribe((event: any) => {
+      const url = event.urlAfterRedirects || event.url;
+      const match = url.match(/\/(?:les|quiz|fillblank)(?:\/)?(\d+)/);
+      if (match) {
+        this.selectedLessonId = match[1];
+      }
+    });
+  }
 
   isLoggedIn(): boolean {
     return localStorage.getItem('participant') != null;
@@ -93,5 +104,86 @@ export class AppComponent {
     if (window.innerWidth <= 992) {
       this.isSidebarActive = false;
     }
+  }
+
+  getCurrentStep() {
+    const url = this.router.url;
+    let match = url.match(/\/les(\d+)/);
+    if (match) {
+      const num = parseInt(match[1], 10);
+      return { type: 'lesson', num, index: (num - 1) * 3 };
+    }
+    match = url.match(/\/quiz\/(\d+)/);
+    if (match) {
+      const num = parseInt(match[1], 10);
+      return { type: 'quiz', num, index: (num - 1) * 3 + 1 };
+    }
+    match = url.match(/\/fillblank\/(\d+)/);
+    if (match) {
+      const num = parseInt(match[1], 10);
+      return { type: 'fillblank', num, index: (num - 1) * 3 + 2 };
+    }
+    return null;
+  }
+
+  getStepUrl(index: number): string {
+    const num = Math.floor(index / 3) + 1;
+    const subStep = index % 3;
+    if (subStep === 0) return `les${num}`;
+    if (subStep === 1) return `quiz/${num}`;
+    return `fillblank/${num}`;
+  }
+
+  hasPreviousStep(): boolean {
+    const step = this.getCurrentStep();
+    return step !== null && step.index > 0;
+  }
+
+  hasNextStep(): boolean {
+    const step = this.getCurrentStep();
+    return step !== null && step.index < 119;
+  }
+
+  goToPreviousStep(): void {
+    const step = this.getCurrentStep();
+    if (step && this.hasPreviousStep()) {
+      const prevUrl = this.getStepUrl(step.index - 1);
+      const prevLessonId = (Math.floor((step.index - 1) / 3) + 1).toString();
+      this.selectedLessonId = prevLessonId;
+      this.router.navigate([prevUrl]);
+    }
+  }
+
+  goToNextStep(): void {
+    const step = this.getCurrentStep();
+    if (step && this.hasNextStep()) {
+      const nextUrl = this.getStepUrl(step.index + 1);
+      const nextLessonId = (Math.floor((step.index + 1) / 3) + 1).toString();
+      this.selectedLessonId = nextLessonId;
+      this.router.navigate([nextUrl]);
+    }
+  }
+
+  getPreviousButtonText(): string {
+    const step = this.getCurrentStep();
+    if (!step) return 'Previous';
+    if (step.type === 'quiz') return 'Back to Lesson';
+    if (step.type === 'fillblank') return 'Back to Quiz';
+    return 'Back to Fill Blank';
+  }
+
+  getNextButtonText(): string {
+    const step = this.getCurrentStep();
+    if (!step) return 'Next';
+    if (step.type === 'lesson') return 'Go to Quiz';
+    if (step.type === 'quiz') return 'Go to Fill Blank';
+    return 'Next Lesson';
+  }
+
+  getStepIndicatorText(): string {
+    const step = this.getCurrentStep();
+    if (!step) return '';
+    const typeLabel = step.type === 'lesson' ? 'Content' : step.type === 'quiz' ? 'Quiz' : 'Fill Blank';
+    return `Lesson ${step.num} of 40: ${typeLabel}`;
   }
 }

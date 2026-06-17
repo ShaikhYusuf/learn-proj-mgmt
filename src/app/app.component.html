@@ -63,6 +63,21 @@
     <main class="app-content">
       <div class="content-container">
         <router-outlet></router-outlet>
+        
+        <!-- Lesson Navigation Footer -->
+        <div class="lesson-navigation" *ngIf="getCurrentStep() !== null">
+          <button class="btn btn-secondary" (click)="goToPreviousStep()" [disabled]="!hasPreviousStep()">
+            <mat-icon>navigate_before</mat-icon>
+            <span>{{ getPreviousButtonText() }}</span>
+          </button>
+          
+          <span class="lesson-indicator">{{ getStepIndicatorText() }}</span>
+          
+          <button class="btn btn-primary" (click)="goToNextStep()" [disabled]="!hasNextStep()">
+            <span>{{ getNextButtonText() }}</span>
+            <mat-icon>navigate_next</mat-icon>
+          </button>
+        </div>
       </div>
     </main>
   </div>
