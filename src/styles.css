@@ -467,3 +467,8 @@ code {
   font-weight: 600;
 }
 
+/* Hide TTS buttons globally */
+.speech-button-container {
+  display: none !important;
+}
+

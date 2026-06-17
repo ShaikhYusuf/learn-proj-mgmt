@@ -2,24 +2,39 @@
   <!-- Sticky Header -->
   <header class="app-header">
     <div class="app-brand">
-      <button class="sidebar-toggle" (click)="toggleSidebar()" aria-label="Toggle Navigation">
+      <button class="sidebar-toggle" *ngIf="isLoggedIn()" (click)="toggleSidebar()" aria-label="Toggle Navigation">
         <mat-icon>menu</mat-icon>
       </button>
       <span class="app-title">{{ siteTitle }}</span>
     </div>
     <div class="header-actions">
-      <button mat-button (click)="navigate('/les1')">
+      <button mat-button (click)="navigate('/les1')" *ngIf="isLoggedIn()">
         <mat-icon>home</mat-icon>
         <span>Home</span>
       </button>
+      
+      <ng-container *ngIf="isLoggedIn(); else loginBtn">
+        <span class="user-greeting">Welcome, <strong>{{ getUserName() }}</strong></span>
+        <button mat-button (click)="logout()" class="logout-btn">
+          <mat-icon>logout</mat-icon>
+          <span>Logout</span>
+        </button>
+      </ng-container>
+      
+      <ng-template #loginBtn>
+        <button mat-button (click)="navigate('/register')">
+          <mat-icon>login</mat-icon>
+          <span>Login / Register</span>
+        </button>
+      </ng-template>
     </div>
   </header>
 
   <div class="app-body">
     <!-- Sidebar Backdrop for mobile -->
-    <div class="sidebar-backdrop" *ngIf="isSidebarActive" (click)="toggleSidebar()"></div>
+    <div class="sidebar-backdrop" *ngIf="isLoggedIn() && isSidebarActive" (click)="toggleSidebar()"></div>
 
-    <aside class="app-sidebar" [class.sidebar-open]="isSidebarActive" [class.sidebar-collapsed]="!isSidebarActive">
+    <aside class="app-sidebar" *ngIf="isLoggedIn()" [class.sidebar-open]="isSidebarActive" [class.sidebar-collapsed]="!isSidebarActive">
       <nav class="sidebar-menu">
         <div class="menu-item" *ngFor="let item of menuItems">
           <div class="menu-link-wrapper" [class.active]="selectedLessonId === item.id">
