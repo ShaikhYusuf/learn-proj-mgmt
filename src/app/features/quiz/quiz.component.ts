@@ -3,10 +3,11 @@ import { HttpClient } from '@angular/common/http';
 import { ActivatedRoute } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { MatListModule } from '@angular/material/list';
+import { MatIconModule } from '@angular/material/icon';
 
 @Component({
   selector: 'app-quiz',
-  imports: [CommonModule, MatListModule],
+  imports: [CommonModule, MatListModule, MatIconModule],
   templateUrl: './quiz.component.html',
   styleUrl: './quiz.component.css'
 })

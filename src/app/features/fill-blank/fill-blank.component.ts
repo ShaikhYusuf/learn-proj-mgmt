@@ -4,11 +4,12 @@ import { Component } from '@angular/core';
 import { MatCardModule } from '@angular/material/card';
 import { ActivatedRoute } from '@angular/router';
 import { FormsModule } from '@angular/forms'; // Import FormsModule
+import { MatIconModule } from '@angular/material/icon';
 
 @Component({
   selector: 'app-fill-blank',
   standalone: true,
-  imports: [CommonModule, MatCardModule, FormsModule], // Add FormsModule here
+  imports: [CommonModule, MatCardModule, FormsModule, MatIconModule], // Add MatIconModule
   templateUrl: './fill-blank.component.html',
   styleUrls: ['./fill-blank.component.css'], // Corrected property name
 })
@@ -40,6 +41,11 @@ export class FillBlankComponent {
   }
 
   onSubmit(): void {
+    if (Object.keys(this.selectedAnswer).length < this.questions.length) {
+      alert('Please answer all questions before submitting.');
+      return;
+    }
+    this.submitted = true;
     this.questions.forEach((question: any) => {
       const userAnswer = this.selectedAnswer[question.id] || '';
       const isCorrect = userAnswer.trim().toLowerCase() === question.answer.toLowerCase();

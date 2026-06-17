@@ -1,0 +1,40 @@
+<div class="fill-blank-wrapper">
+  @for (eachQuestion of questions; track eachQuestion; let qIdx = $index) {
+    <div class="card question-card">
+      <div class="question-card-header">
+        <span class="question-number">Question {{ qIdx + 1 }}</span>
+      </div>
+      <p class="question-paragraph">
+        @for (part of getParts(eachQuestion.question); track part; let i = $index) {
+          @if (!part.includes('_')) {
+            <span class="text-segment">{{ part }}</span>
+          }
+          @if (part.includes('_')) {
+            <input type="text" 
+                   class="inline-input"
+                   [(ngModel)]="selectedAnswer[eachQuestion.id]"
+                   [style.width]="(eachQuestion.answer.length * 1.2) + 'ch'" 
+                   [ngClass]="{
+                     'correct': eachQuestion['isCorrect'] === true,
+                     'incorrect': eachQuestion['isCorrect'] === false
+                   }" 
+                   [disabled]="submitted" />
+          }
+        }
+      </p>
+      
+      <!-- Show answer if incorrect selection was submitted -->
+      <div class="feedback-hint" *ngIf="submitted && eachQuestion['isCorrect'] === false">
+        <mat-icon class="hint-icon">lightbulb</mat-icon>
+        <span>Correct Answer: <strong>{{ eachQuestion.answer }}</strong></span>
+      </div>
+    </div>
+  }
+  
+  <div class="action-bar" *ngIf="questions.length > 0">
+    <button class="btn btn-primary submit-btn" (click)="onSubmit()" [disabled]="submitted">
+      <mat-icon>cloud_upload</mat-icon>
+      <span>Submit Answers</span>
+    </button>
+  </div>
+</div>
